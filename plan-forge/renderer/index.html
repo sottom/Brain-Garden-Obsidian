@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="Content-Security-Policy"
+        content="default-src 'self'; style-src 'self' 'unsafe-inline'; script-src 'self';" />
+  <title>Plan Forge</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div id="app">
+    <header class="topbar">
+      <div class="brand">
+        <span class="brand-mark">◆</span>
+        <span class="brand-name">Plan Forge</span>
+      </div>
+      <div class="project-picker" id="projectPicker"></div>
+      <div class="top-actions">
+        <button class="btn btn-ghost" id="btnHelp" title="Framework reference">Framework</button>
+        <button class="btn btn-ghost" id="btnWizard" title="Guided slice (⌘⇧N)">Slice Wizard</button>
+        <button class="btn" id="btnNew" title="New project (⌘N)">+ New</button>
+      </div>
+    </header>
+
+    <aside class="sidebar" id="sidebar">
+      <nav class="nav-section">
+        <button class="nav-item" data-view="dashboard">
+          <span class="nav-icon">▦</span><span>Dashboard</span>
+        </button>
+        <button class="nav-item" data-view="businessRequirements" title="Top-level policy chunks from source docs">
+          <span class="nav-icon">§</span><span>Business Rules</span><span class="nav-count" id="count-br"></span>
+        </button>
+        <button class="nav-item" data-view="requirements" title="A single testable rule inside a Business Rule">
+          <span class="nav-icon">✓</span><span>Requirements</span><span class="nav-count" id="count-req"></span>
+        </button>
+        <button class="nav-item" data-view="workstreams">
+          <span class="nav-icon">⧉</span><span>Workstreams</span><span class="nav-count" id="count-ws"></span>
+        </button>
+        <button class="nav-item" data-view="epics">
+          <span class="nav-icon">◰</span><span>Epics</span><span class="nav-count" id="count-epic"></span>
+        </button>
+        <button class="nav-item" data-view="stories">
+          <span class="nav-icon">≡</span><span>Stories</span><span class="nav-count" id="count-story"></span>
+        </button>
+        <button class="nav-item" data-view="decisions">
+          <span class="nav-icon">⊙</span><span>Decision Log</span><span class="nav-count" id="count-dec"></span>
+        </button>
+        <button class="nav-item" data-view="coverage">
+          <span class="nav-icon">⊞</span><span>Coverage</span>
+        </button>
+      </nav>
+      <div class="sidebar-footer">
+        <div class="kv"><span class="kv-k">Workspace</span><span class="kv-v" id="workspacePath" title=""></span></div>
+      </div>
+    </aside>
+
+    <main class="content" id="content">
+      <!-- Views injected here -->
+    </main>
+
+    <div class="modal-host" id="modalHost"></div>
+    <div class="toast-host" id="toastHost"></div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
