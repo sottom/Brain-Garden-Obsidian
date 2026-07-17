@@ -23,7 +23,11 @@ if cd "$REPO_DIR"; then
         $GIT_EXEC commit -m "Auto-commit: $(date '+%Y-%m-%d %H:%M:%S')"
         
         # Push to the remote repository (adjust branch name if needed)
-        $GIT_EXEC push origin main
+	    if $GIT_EXEC push origin main; then
+                echo "[$(date '+%Y-%m-%d %H:%M:%S')] SUCCESS: Changes successfully pushed to GitHub."
+            else
+                echo "[$(date '+%Y-%m-%d %H:%M:%S')] ERROR: Git push failed." >&2
+            fi
     fi
 else
     echo "Directory $REPO_DIR not found." >&2
