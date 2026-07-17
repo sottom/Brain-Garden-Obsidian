@@ -1,0 +1,1 @@
+Why didn't he spread the load of making the diagrams? What blocked him?

@@ -8,73 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c1cdb2b3ab2da7da",
+            "id": "9dd09bffa148f4a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "DailyNotes/2026-05-15 (Fri).md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/F&D Organization Setup with AI.md"
               },
-              "icon": "lucide-file",
-              "title": "2026-05-15 (Fri)"
-            }
-          },
-          {
-            "id": "74c9bc6f98afba09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Floor038 Loyalty/LEK Will Green Workstreams Mapping 5-15-2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LEK Will Green Workstreams Mapping 5-15-2026"
-            }
-          },
-          {
-            "id": "ff9f176d1a0aa36a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Floor038 Loyalty/Floor038 Loyalty.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Floor038 Loyalty"
-            }
-          },
-          {
-            "id": "9b63f035857186db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Floor038 Loyalty/Floor038 Loyalty.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Floor038 Loyalty"
-            }
-          },
-          {
-            "id": "79ecf94f70bd279f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jacob Woodiel Feedback.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Jacob Woodiel Feedback"
+              "icon": "excalidraw-icon",
+              "title": "F&D Organization Setup with AI"
             }
           },
           {
@@ -83,10 +25,168 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/User Story Mapping.md"
+                "file": "Excalidraw/Loyalty User Story Mapping.md"
               },
               "icon": "excalidraw-icon",
-              "title": "User Story Mapping"
+              "title": "Loyalty User Story Mapping"
+            }
+          },
+          {
+            "id": "e5def790108558cd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-07-08 07.12.28.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-07-08 07.12.28.excalidraw"
+            }
+          },
+          {
+            "id": "17a33fb358cfde0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECOMM Questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ECOMM Questions"
+            }
+          },
+          {
+            "id": "45eaf2e0fec81360",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 9.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 9"
+            }
+          },
+          {
+            "id": "645b41a0d97d07eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Acworth Missionaries.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Acworth Missionaries"
+            }
+          },
+          {
+            "id": "91d737e931f133f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CRS needs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CRS needs"
+            }
+          },
+          {
+            "id": "6527077060ce16b8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Loyalty F&D Environments.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Loyalty F&D Environments"
+            }
+          },
+          {
+            "id": "1506d5aca925d11d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty"
+            }
+          },
+          {
+            "id": "f183f34943135175",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "F&D Loyalty POS Flows and Systems Needed"
+            }
+          },
+          {
+            "id": "a1fc557bbd520b1e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Multiple Receipts Loyalty F&D.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Multiple Receipts Loyalty F&D"
+            }
+          },
+          {
+            "id": "e4893e674e16f6d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 8.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 8"
+            }
+          },
+          {
+            "id": "1eceabb2c006fd1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sample Liability Email Loyalty 2.0 Floor & Decor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sample Liability Email Loyalty 2.0 Floor & Decor"
+            }
+          },
+          {
+            "id": "287cc7090706f5c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Feedback Jacob McCarthy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Feedback Jacob McCarthy"
             }
           },
           {
@@ -99,6 +199,150 @@
               },
               "icon": "excalidraw-icon",
               "title": "F&D Loyalty Diagram"
+            }
+          },
+          {
+            "id": "fdb8b38a09be8937",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty"
+            }
+          },
+          {
+            "id": "a666f4ee3077a6a4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Loyalty User Story Mapping.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Loyalty User Story Mapping"
+            }
+          },
+          {
+            "id": "8319636776bb47bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coaching at Pariveda as a Manager.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Coaching at Pariveda as a Manager"
+            }
+          },
+          {
+            "id": "0595c40cc72872e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 7.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 7"
+            }
+          },
+          {
+            "id": "feccf31def18785b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jacob Osborn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jacob Osborn"
+            }
+          },
+          {
+            "id": "2edffeb9957e2369",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Floor & Decor Loyalty Systems Integrations - CARS Focused.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Floor & Decor Loyalty Systems Integrations - CARS Focused"
+            }
+          },
+          {
+            "id": "9f61536f88f0b5e2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/F&D Loyalty Accounting Needs Liability.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "F&D Loyalty Accounting Needs Liability"
+            }
+          },
+          {
+            "id": "902bbf15d1a681c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 6"
+            }
+          },
+          {
+            "id": "7dc0e9aa7862cc06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tier example.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tier example"
+            }
+          },
+          {
+            "id": "530ae846c3f2ce6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Next Steps.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Next Steps"
+            }
+          },
+          {
+            "id": "5744141a0dba808a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-06-10 10.48.00.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-06-10 10.48.00.excalidraw"
             }
           },
           {
@@ -163,10 +407,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2026-05-18 12.58.33.excalidraw.md"
+                "file": "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-05-18 12.58.33.excalidraw"
+              "title": "F&D Loyalty POS Flows and Systems Needed"
             }
           },
           {
@@ -348,7 +592,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -380,7 +624,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "/mini rule",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -405,8 +649,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "20d6ba111bc01a1a",
@@ -422,7 +665,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/User Story Mapping.md",
+                "file": "Excalidraw/Multiple Receipts Loyalty F&D.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -432,7 +675,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for User Story Mapping"
+              "title": "Backlinks for Multiple Receipts Loyalty F&D"
             }
           },
           {
@@ -505,7 +748,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -521,23 +764,45 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0cd34b4ced652559",
+  "active": "6e0b885a170229f3",
   "lastOpenFiles": [
-    "README.md",
+    "git_push_log.log",
+    "git_auto_push.sh",
+    "Excalidraw/F&D Payments PCI Azure Subscription.md",
+    "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
+    "Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md",
+    "Excalidraw/Loyalty F&D Environments.md",
+    "Excalidraw/Multiple Receipts Loyalty F&D.md",
+    "Excalidraw/POS Flows & Systems Needed Old F&D Loyalty.md",
+    "CRS needs.md",
+    "Pasted Image 20260717155117_501.png",
+    "Pasted Image 20260717154104_202.png",
+    "Excalidraw/Drawing 2026-07-08 07.12.28.excalidraw.md",
+    "Untitled.md",
+    "Pasted Image 20260717112252_820.png",
+    "Pasted Image 20260717111103_047.png",
+    "Pasted Image 20260717110916_291.png",
+    "Pasted Image 20260717110853_741.png",
     "Floor038 Loyalty/F&D Loyalty Diagram.md",
-    "Excalidraw/Drawing 2026-05-23 08.27.34.excalidraw.md",
-    "Excalidraw/User Story Mapping.md",
-    "Jacob Woodiel Feedback.md",
-    "Decisions to be made.md",
-    "Pasted Image 20260521203917_077.png",
-    "Untitled 5.md",
-    "Pasted Image 20260521095124_180.png",
-    "Pasted Image 20260520221606_820.png",
-    "Stories.md",
+    "Pasted image 20260716143958.png",
+    "Pasted Image 20260716143946_449.png",
+    "Pasted Image 20260716143913_103.png",
+    "Pasted image 20260716143831.png",
+    "ECOMM Questions.md",
+    "Untitled 9.md",
+    "Acworth Missionaries.md",
+    "Excalidraw/Loyalty User Story Mapping.md",
+    "Excalidraw/F&D Organization Setup with AI.md",
+    "Excalidraw/Drawing 2026-04-16 16.11.49.excalidraw.md",
+    "Excalidraw/Floor & Decor Loyalty Systems Integrations - CARS Focused.md",
     "Excalidraw/Drawing 2026-05-18 12.58.33.excalidraw.md",
-    "Pasted Image 20260518125834_947.png",
-    "POS flow.md",
-    "Floor038 Loyalty/LEK Will Green Workstreams Mapping 5-15-2026.md",
+    "Excalidraw/F&D Loyalty Accounting Needs Liability.md",
+    "Untitled 8.md",
+    "Sample Liability Email Loyalty 2.0 Floor & Decor.md",
+    "Untitled 7.md",
+    "Coaching at Pariveda as a Manager.md",
+    "Feedback Jacob McCarthy.md",
+    "Jacob Osborn.md",
     "plan-forge/package-lock.json",
     "plan-forge/node_modules/electron/path.txt",
     "plan-forge/node_modules/electron/dist/LICENSES.chromium.html",
@@ -546,28 +811,6 @@
     "plan-forge/node_modules/electron/dist/Electron.app/Contents/PkgInfo",
     "plan-forge/node_modules/electron/dist/Electron.app/Contents/Info.plist",
     "plan-forge/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Helper.app/Contents/MacOS/Electron Helper",
-    "plan-forge/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Helper.app/Contents/PkgInfo",
-    "plan-forge/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Helper.app/Contents/MacOS",
-    "plan-forge/node_modules/codepage/README.md",
-    "plan-forge/node_modules/xlsx/legend.png",
-    "plan-forge/node_modules/xlsx/formats.png",
-    "plan-forge/node_modules/xlsx/README.md",
-    "plan-forge/node_modules/xlsx/CHANGELOG.md",
-    "plan-forge/node_modules/wmf/README.md",
-    "plan-forge/node_modules/ssf/README.md",
-    "plan-forge/node_modules/electron/README.md",
-    "plan-forge/node_modules/@types/node/README.md",
-    "plan-forge/node_modules/adler-32/README.md",
-    "plan-forge/node_modules/global-agent/README.md",
-    "plan-forge/node_modules/cfb/README.md",
-    "plan-forge/node_modules/@electron/get/README.md",
-    "plan-forge/node_modules/got/readme.md",
-    "plan-forge/node_modules/roarr/README.md",
-    "plan-forge/node_modules/word/README.md",
-    "plan-forge/node_modules/word/CONTRIBUTING.md",
-    "Pasted image 20260515074506.png",
-    "Pasted Image 20260514132424_062.png",
-    "Pasted Image 20260514132330_278.png",
-    "Pasted image 20260513132232.png"
+    "plan-forge/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Helper.app/Contents/PkgInfo"
   ]
 }
