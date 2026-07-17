@@ -107,8 +107,8 @@
               "state": {
                 "file": "Excalidraw/Loyalty F&D Environments.md"
               },
-              "icon": "lucide-ghost",
-              "title": "excalidraw"
+              "icon": "excalidraw-icon",
+              "title": "Loyalty F&D Environments"
             }
           },
           {
@@ -131,8 +131,8 @@
               "state": {
                 "file": "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md"
               },
-              "icon": "lucide-ghost",
-              "title": "excalidraw"
+              "icon": "excalidraw-icon",
+              "title": "F&D Loyalty POS Flows and Systems Needed"
             }
           },
           {
@@ -592,7 +592,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -764,14 +764,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a1fc557bbd520b1e",
+  "active": "6527077060ce16b8",
   "lastOpenFiles": [
-    "git_push_log.log.tmp",
+    "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
     "Excalidraw/Multiple Receipts Loyalty F&D.md",
+    "git_push_log.log.tmp",
     "git_push_log.log",
     "git_auto_push.sh",
     "Excalidraw/F&D Payments PCI Azure Subscription.md",
-    "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
     "Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md",
     "Excalidraw/Loyalty F&D Environments.md",
     "Excalidraw/POS Flows & Systems Needed Old F&D Loyalty.md",
