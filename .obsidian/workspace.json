@@ -15,8 +15,8 @@
               "state": {
                 "file": "Excalidraw/F&D Organization Setup with AI.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "F&D Organization Setup with AI"
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
             }
           },
           {
@@ -27,8 +27,8 @@
               "state": {
                 "file": "Excalidraw/Loyalty User Story Mapping.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Loyalty User Story Mapping"
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
             }
           },
           {
@@ -39,8 +39,8 @@
               "state": {
                 "file": "Excalidraw/Drawing 2026-07-08 07.12.28.excalidraw.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-07-08 07.12.28.excalidraw"
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
             }
           },
           {
@@ -107,8 +107,8 @@
               "state": {
                 "file": "Excalidraw/Loyalty F&D Environments.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Loyalty F&D Environments"
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
             }
           },
           {
@@ -119,8 +119,8 @@
               "state": {
                 "file": "Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty"
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
             }
           },
           {
@@ -131,8 +131,8 @@
               "state": {
                 "file": "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "F&D Loyalty POS Flows and Systems Needed"
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
             }
           },
           {
@@ -197,8 +197,8 @@
               "state": {
                 "file": "Floor038 Loyalty/F&D Loyalty Diagram.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "F&D Loyalty Diagram"
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
             }
           },
           {
@@ -209,8 +209,8 @@
               "state": {
                 "file": "Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty"
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
             }
           },
           {
@@ -221,8 +221,8 @@
               "state": {
                 "file": "Excalidraw/Loyalty User Story Mapping.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Loyalty User Story Mapping"
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
             }
           },
           {
@@ -275,8 +275,8 @@
               "state": {
                 "file": "Excalidraw/Floor & Decor Loyalty Systems Integrations - CARS Focused.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Floor & Decor Loyalty Systems Integrations - CARS Focused"
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
             }
           },
           {
@@ -287,8 +287,8 @@
               "state": {
                 "file": "Excalidraw/F&D Loyalty Accounting Needs Liability.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "F&D Loyalty Accounting Needs Liability"
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
             }
           },
           {
@@ -341,8 +341,8 @@
               "state": {
                 "file": "Excalidraw/Drawing 2026-06-10 10.48.00.excalidraw.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-06-10 10.48.00.excalidraw"
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
             }
           },
           {
@@ -409,8 +409,8 @@
               "state": {
                 "file": "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "F&D Loyalty POS Flows and Systems Needed"
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
             }
           },
           {
@@ -519,8 +519,8 @@
               "state": {
                 "file": "Excalidraw/Familly History Card Game.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Familly History Card Game"
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
             }
           },
           {
@@ -545,8 +545,8 @@
               "state": {
                 "file": "Excalidraw/Drawing 2026-04-16 16.11.49.excalidraw.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-04-16 16.11.49.excalidraw"
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
             }
           },
           {
@@ -766,6 +766,7 @@
   },
   "active": "a1fc557bbd520b1e",
   "lastOpenFiles": [
+    "Excalidraw/Multiple Receipts Loyalty F&D.md",
     "git_push_log.log.tmp",
     "git_push_log.log",
     "git_auto_push.sh",
@@ -773,7 +774,6 @@
     "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
     "Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md",
     "Excalidraw/Loyalty F&D Environments.md",
-    "Excalidraw/Multiple Receipts Loyalty F&D.md",
     "Excalidraw/POS Flows & Systems Needed Old F&D Loyalty.md",
     "CRS needs.md",
     "Pasted Image 20260717155117_501.png",
@@ -810,7 +810,6 @@
     "plan-forge/node_modules/electron/dist/version",
     "plan-forge/node_modules/electron/dist/LICENSE",
     "plan-forge/node_modules/electron/dist/Electron.app/Contents/PkgInfo",
-    "plan-forge/node_modules/electron/dist/Electron.app/Contents/Info.plist",
-    "plan-forge/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Helper.app/Contents/MacOS/Electron Helper"
+    "plan-forge/node_modules/electron/dist/Electron.app/Contents/Info.plist"
   ]
 }
