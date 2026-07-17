@@ -28,6 +28,8 @@ if cd "$REPO_DIR"; then
             else
                 echo "[$(date '+%Y-%m-%d %H:%M:%S')] ERROR: Git push failed." >&2
             fi
+    else
+        echo "Nothing to commit!"
     fi
 else
     echo "Directory $REPO_DIR not found." >&2
