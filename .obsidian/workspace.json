@@ -764,8 +764,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6e0b885a170229f3",
+  "active": "a1fc557bbd520b1e",
   "lastOpenFiles": [
+    "git_push_log.log.tmp",
     "git_push_log.log",
     "git_auto_push.sh",
     "Excalidraw/F&D Payments PCI Azure Subscription.md",
@@ -810,7 +811,6 @@
     "plan-forge/node_modules/electron/dist/LICENSE",
     "plan-forge/node_modules/electron/dist/Electron.app/Contents/PkgInfo",
     "plan-forge/node_modules/electron/dist/Electron.app/Contents/Info.plist",
-    "plan-forge/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Helper.app/Contents/MacOS/Electron Helper",
-    "plan-forge/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Helper.app/Contents/PkgInfo"
+    "plan-forge/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Helper.app/Contents/MacOS/Electron Helper"
   ]
 }

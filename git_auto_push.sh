@@ -1,13 +1,13 @@
 #!/bin/bash
 
 # Define the absolute path to your local Git repository
-REPO_DIR="/Users/Mitchell.Sotto/Documents/BrainGarden"
+REPO_DIR="/Users/Mitchell.Sotto/BrainGarden"
 
 # Use the absolute path to the git executable (typical for macOS)
 GIT_EXEC="/usr/bin/git"
 
 # Limit the log file to the last 1000 lines
-LOG_FILE="/Users/Mitchell.Sotto/Documents/BrainGarden/git_push_log.log"
+LOG_FILE="/Users/Mitchell.Sotto/BrainGarden/git_push_log.log"
 if [ -f "$LOG_FILE" ]; then
     tail -n 1000 "$LOG_FILE" > "${LOG_FILE}.tmp" && mv "${LOG_FILE}.tmp" "$LOG_FILE"
 fi
@@ -29,4 +29,3 @@ else
     echo "Directory $REPO_DIR not found." >&2
     exit 1
 fi
-
