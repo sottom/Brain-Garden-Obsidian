@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Provide the full path to standard macOS and Homebrew installation directories
+export PATH="/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
+
 # Navigate to the repository
 cd /Users/Mitchell.Sotto/BrainGarden || exit 1
 
