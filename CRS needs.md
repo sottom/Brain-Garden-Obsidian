@@ -111,3 +111,5 @@ Evaluate if rules can be used api
 
 POS
 ![[Pasted image 20260718155838.png]]
+
+![[Pasted image 20260718155954.png]]
