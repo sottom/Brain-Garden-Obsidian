@@ -72,6 +72,18 @@
             }
           },
           {
+            "id": "d085682c77080693",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-07-18 17.46.58.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-07-18 17.46.58.excalidraw"
+            }
+          },
+          {
             "id": "9f61536f88f0b5e2",
             "type": "leaf",
             "state": {
@@ -384,7 +396,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -557,15 +569,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "91d737e931f133f3",
+  "active": "d085682c77080693",
   "lastOpenFiles": [
     "Excalidraw/Floor & Decor Loyalty Systems Integrations - CARS Focused.md",
+    "Excalidraw/Drawing 2026-07-18 17.46.58.excalidraw.md",
+    "Loyalty All Todos.md",
     "Jacob Osborn.md",
     "Untitled 7.md",
     "Coaching at Pariveda as a Manager.md",
     "Jacob McCarthy.md",
     "Untitled 8.md",
-    "Loyalty All Todos.md",
     "Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md",
     "Excalidraw/F&D Organization Setup with AI.md",
     "Floor038 Loyalty/OLD F&D Loyalty Diagrams OLD.md",
@@ -590,7 +603,6 @@
     "Pasted Image 20260718154119_260.png",
     "Pasted image 20260718150453.png",
     "Eleri Feedback on Fintalk.md",
-    "Acworth Missionaries.md",
     "Pasted image 20260718143202.png",
     "Pasted image 20260718142957.png",
     "Pasted image 20260718073625.png",

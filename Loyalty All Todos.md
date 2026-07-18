@@ -135,6 +135,9 @@ Requirements captured???
 ![[Pasted image 20260718172250.png]]
 
 Discuss manual upload flow - [[Excalidraw/Multiple Receipts Loyalty F&D.md#^3VedIycz|Receipts Diagram]]
+
+Add story for systems trust matrix for full rollout - System Trust Matix
+authorization (grants for read / write) 
 # TODOs
 ## CRS
 - Payments apis analysis
