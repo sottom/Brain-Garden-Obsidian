@@ -128,10 +128,13 @@ Requirements captured???
 - storagebuy
 - register
 - accounting
+![[Pasted image 20260718165758.png]]
 
 
 # TODOs
-## CRS - 
+## CRS
+- Payments apis analysis
+	- how will someone get enrolled?
 
 
 # Meetings
