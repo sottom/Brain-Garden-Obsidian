@@ -34,34 +34,6 @@
             }
           },
           {
-            "id": "45eaf2e0fec81360",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Eleri Feedback on Fintalk.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Eleri Feedback on Fintalk"
-            }
-          },
-          {
-            "id": "645b41a0d97d07eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Acworth Missionaries.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Acworth Missionaries"
-            }
-          },
-          {
             "id": "91d737e931f133f3",
             "type": "leaf",
             "state": {
@@ -567,8 +539,7 @@
               "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -740,11 +711,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "645b41a0d97d07eb",
+  "active": "e5def790108558cd",
   "lastOpenFiles": [
-    "Eleri Floyd.md",
-    "Eleri Feedback on Fintalk.md",
+    "Excalidraw/Loyalty F&D Environments.md",
+    "CRS needs.md",
     "ECOMM Questions.md",
+    "Eleri Feedback on Fintalk.md",
+    "Acworth Missionaries.md",
+    "Eleri Floyd.md",
     "AI Development Milestones.md",
     "Paul Viola notes on Team Nova F&D.md",
     "Excalidraw/Timelines & Gantt Charts F&D Loyalty.md",
@@ -755,7 +729,6 @@
     "Excalidraw/Multiple Receipts Loyalty F&D.md",
     "Pasted image 20260718073625.png",
     "Excalidraw/F&D Organization Setup with AI.md",
-    "Excalidraw/Loyalty F&D Environments.md",
     "git_push_log.log.tmp",
     "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
     "git_push_log.log",
@@ -763,7 +736,6 @@
     "Excalidraw/F&D Payments PCI Azure Subscription.md",
     "Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md",
     "Excalidraw/POS Flows & Systems Needed Old F&D Loyalty.md",
-    "CRS needs.md",
     "Pasted Image 20260717155117_501.png",
     "Pasted Image 20260717154104_202.png",
     "Untitled.md",
@@ -773,7 +745,6 @@
     "Pasted Image 20260717110853_741.png",
     "Floor038 Loyalty/F&D Loyalty Diagram.md",
     "Pasted image 20260716143958.png",
-    "Acworth Missionaries.md",
     "Excalidraw/Drawing 2026-04-16 16.11.49.excalidraw.md",
     "Excalidraw/Floor & Decor Loyalty Systems Integrations - CARS Focused.md",
     "Excalidraw/Drawing 2026-05-18 12.58.33.excalidraw.md",
