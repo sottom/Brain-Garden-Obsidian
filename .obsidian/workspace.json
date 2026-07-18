@@ -100,6 +100,18 @@
             }
           },
           {
+            "id": "c0d81e32de8b0e6c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/F&D Organization Setup with AI.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "F&D Organization Setup with AI"
+            }
+          },
+          {
             "id": "fdb8b38a09be8937",
             "type": "leaf",
             "state": {
@@ -664,9 +676,10 @@
   },
   "active": "99293253126c694f",
   "lastOpenFiles": [
+    "Excalidraw/F&D Organization Setup with AI.md",
+    "Floor038 Loyalty/F&D Loyalty Diagram.md",
     "Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md",
     "Excalidraw/F&D Loyalty Stakeholders Diagram.md",
-    "Floor038 Loyalty/F&D Loyalty Diagram.md",
     "Jacob McCarthy.md",
     "Sample Liability Email Loyalty 2.0 Floor & Decor.md",
     "Excalidraw/Multiple Receipts Loyalty F&D.md",
@@ -694,7 +707,6 @@
     "Pasted image 20260718142957.png",
     "Marketing F&D People.md",
     "Pasted image 20260718073625.png",
-    "Excalidraw/F&D Organization Setup with AI.md",
     "git_push_log.log.tmp",
     "git_push_log.log",
     "git_auto_push.sh",
