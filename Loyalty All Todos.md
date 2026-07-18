@@ -13,7 +13,7 @@ What needs done next week, by when?
 - How will beta enrollment go from start to finish? Who owns driving this? Sterba?
 
 Monday - 7
--
+- 2-Handling Receipts
 
 Tuesday
 
