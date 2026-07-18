@@ -107,8 +107,8 @@
               "state": {
                 "file": "Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md"
               },
-              "icon": "lucide-ghost",
-              "title": "excalidraw"
+              "icon": "excalidraw-icon",
+              "title": "F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty"
             }
           },
           {
@@ -664,6 +664,9 @@
   },
   "active": "99293253126c694f",
   "lastOpenFiles": [
+    "Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md",
+    "Excalidraw/F&D Loyalty Stakeholders Diagram.md",
+    "Floor038 Loyalty/F&D Loyalty Diagram.md",
     "Jacob McCarthy.md",
     "Sample Liability Email Loyalty 2.0 Floor & Decor.md",
     "Excalidraw/Multiple Receipts Loyalty F&D.md",
@@ -677,7 +680,6 @@
     "Pasted image 20260718165758.png",
     "Pasted image 20260718155954.png",
     "Pasted image 20260718155838.png",
-    "Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md",
     "AI-SDLC.md",
     "Excalidraw/Loyalty F&D Environments.md",
     "Pasted Image 20260718154119_260.png",
@@ -699,10 +701,8 @@
     "Excalidraw/POS Flows & Systems Needed Old F&D Loyalty.md",
     "Pasted Image 20260717155117_501.png",
     "Untitled.md",
-    "Floor038 Loyalty/F&D Loyalty Diagram.md",
     "Excalidraw/Drawing 2026-04-16 16.11.49.excalidraw.md",
     "Excalidraw/Floor & Decor Loyalty Systems Integrations - CARS Focused.md",
-    "Excalidraw/Drawing 2026-05-18 12.58.33.excalidraw.md",
     "plan-forge/package-lock.json",
     "plan-forge/node_modules/electron/path.txt",
     "plan-forge/node_modules/electron/dist/LICENSES.chromium.html",
