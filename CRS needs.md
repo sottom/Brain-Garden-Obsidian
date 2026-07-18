@@ -117,3 +117,14 @@ POS
 ![[Pasted image 20260718155954.png]]
 
 SNOW ticket for admin account re-activation
+
+
+Requirements captured???
+- marketing
+- analytics
+- app
+- ecomm
+- myproject
+- storagebuy
+- register
+- accounting
