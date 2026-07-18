@@ -12,7 +12,10 @@ What needs done next week, by when?
 ## Everyone
 - How will beta enrollment go from start to finish? Who owns driving this? Sterba?
 
+Monday - 7
+-
 
+Tuesday
 
 
 
