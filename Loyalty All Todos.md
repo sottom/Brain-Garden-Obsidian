@@ -1,5 +1,7 @@
 What needs done next week, by when?
 
+Who do we need to bring in? What levels?
+
 Requirements
 - [Loyalty 2.0] Storage-Buy / Take-With Receipt Identifiers — Pro App Scan & Loyalty De-Dup
 - resolve by membership id
@@ -144,3 +146,6 @@ Discuss manual upload flow - [[Excalidraw/Multiple Receipts Loyalty F&D.md#^3Ved
 - During normal enrollment for full rollout and also seating for beta, how do we want to create membership representations in the payments system, when a new person is seated or enrolled. Let's talk through that flow.
 ## Everyone
 - How will beta enrollment go from start to finish? Who owns driving this? Sterba?
+
+# Other
+- Look at EF Expectations for teammates

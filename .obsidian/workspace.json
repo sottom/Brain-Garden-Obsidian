@@ -60,20 +60,6 @@
             }
           },
           {
-            "id": "e4893e674e16f6d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 8.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 8"
-            }
-          },
-          {
             "id": "287cc7090706f5c5",
             "type": "leaf",
             "state": {
@@ -454,7 +440,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -627,8 +613,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8319636776bb47bb",
+  "active": "287cc7090706f5c5",
   "lastOpenFiles": [
+    "Untitled 8.md",
+    "Loyalty All Todos.md",
+    "Coaching at Pariveda as a Manager.md",
     "Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md",
     "Excalidraw/F&D Organization Setup with AI.md",
     "Floor038 Loyalty/OLD F&D Loyalty Diagrams OLD.md",
@@ -642,7 +631,6 @@
     "Excalidraw/Multiple Receipts Loyalty F&D.md",
     "ECOMM Questions.md",
     "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
-    "Loyalty All Todos.md",
     "Excalidraw/Timelines & Gantt Charts F&D Loyalty.md",
     "Excalidraw/F&D Payments PCI Azure Subscription.md",
     "Excalidraw/Drawing 2026-07-18 17.28.34.excalidraw.md",
@@ -660,9 +648,7 @@
     "AI Development Milestones.md",
     "Paul Viola notes on Team Nova F&D.md",
     "Pasted image 20260718143202.png",
-    "Excalidraw/Loyalty User Story Mapping.md",
     "Pasted image 20260718142957.png",
-    "Marketing F&D People.md",
     "Pasted image 20260718073625.png",
     "git_push_log.log.tmp",
     "git_push_log.log",
