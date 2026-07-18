@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9dd09bffa148f4a5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/F&D Organization Setup with AI.md"
-              },
-              "icon": "lucide-ghost",
-              "title": "excalidraw"
-            }
-          },
-          {
             "id": "0cd34b4ced652559",
             "type": "leaf",
             "state": {
@@ -27,8 +15,8 @@
               "state": {
                 "file": "Excalidraw/Loyalty User Story Mapping.md"
               },
-              "icon": "lucide-ghost",
-              "title": "excalidraw"
+              "icon": "excalidraw-icon",
+              "title": "Loyalty User Story Mapping"
             }
           },
           {
@@ -591,8 +579,7 @@
               "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -764,8 +751,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6527077060ce16b8",
+  "active": "0cd34b4ced652559",
   "lastOpenFiles": [
+    "Excalidraw/F&D Organization Setup with AI.md",
+    "Excalidraw/Loyalty F&D Environments.md",
     "git_push_log.log.tmp",
     "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
     "Excalidraw/Multiple Receipts Loyalty F&D.md",
@@ -773,7 +762,6 @@
     "git_auto_push.sh",
     "Excalidraw/F&D Payments PCI Azure Subscription.md",
     "Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md",
-    "Excalidraw/Loyalty F&D Environments.md",
     "Excalidraw/POS Flows & Systems Needed Old F&D Loyalty.md",
     "CRS needs.md",
     "Pasted Image 20260717155117_501.png",
@@ -793,7 +781,6 @@
     "Untitled 9.md",
     "Acworth Missionaries.md",
     "Excalidraw/Loyalty User Story Mapping.md",
-    "Excalidraw/F&D Organization Setup with AI.md",
     "Excalidraw/Drawing 2026-04-16 16.11.49.excalidraw.md",
     "Excalidraw/Floor & Decor Loyalty Systems Integrations - CARS Focused.md",
     "Excalidraw/Drawing 2026-05-18 12.58.33.excalidraw.md",
