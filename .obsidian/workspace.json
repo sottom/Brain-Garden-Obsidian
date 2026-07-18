@@ -20,17 +20,15 @@
             }
           },
           {
-            "id": "17a33fb358cfde0c",
+            "id": "f183f34943135175",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "ECOMM Questions.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md"
               },
-              "icon": "lucide-file",
-              "title": "ECOMM Questions"
+              "icon": "excalidraw-icon",
+              "title": "F&D Loyalty POS Flows and Systems Needed"
             }
           },
           {
@@ -48,15 +46,17 @@
             }
           },
           {
-            "id": "f183f34943135175",
+            "id": "17a33fb358cfde0c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md"
+                "file": "ECOMM Questions.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "F&D Loyalty POS Flows and Systems Needed"
+              "icon": "lucide-file",
+              "title": "ECOMM Questions"
             }
           },
           {
@@ -71,18 +71,6 @@
               },
               "icon": "lucide-file",
               "title": "Untitled 8"
-            }
-          },
-          {
-            "id": "a1fc557bbd520b1e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Multiple Receipts Loyalty F&D.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Multiple Receipts Loyalty F&D"
             }
           },
           {
@@ -688,18 +676,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a1fc557bbd520b1e",
+  "active": "1eceabb2c006fd1f",
   "lastOpenFiles": [
-    "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
-    "Excalidraw/Timelines & Gantt Charts F&D Loyalty.md",
     "Excalidraw/Multiple Receipts Loyalty F&D.md",
+    "ECOMM Questions.md",
+    "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
+    "Loyalty All Todos.md",
+    "Excalidraw/Timelines & Gantt Charts F&D Loyalty.md",
     "Excalidraw/F&D Payments PCI Azure Subscription.md",
     "Excalidraw/Drawing 2026-07-18 17.28.34.excalidraw.md",
-    "Loyalty All Todos.md",
     "Pasted image 20260718172250.png",
     "Pasted image 20260718165758.png",
     "Pasted image 20260718155954.png",
-    "ECOMM Questions.md",
     "Pasted image 20260718155838.png",
     "Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md",
     "AI-SDLC.md",

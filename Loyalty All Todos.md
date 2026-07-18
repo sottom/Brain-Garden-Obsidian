@@ -132,6 +132,7 @@ Requirements captured???
 ![[Pasted image 20260718165758.png]]
 ![[Pasted image 20260718172250.png]]
 
+Discuss manual upload flow - [[Excalidraw/Multiple Receipts Loyalty F&D.md#^3VedIycz|Receipts Diagram]]
 # TODOs
 ## CRS
 - Payments apis analysis
