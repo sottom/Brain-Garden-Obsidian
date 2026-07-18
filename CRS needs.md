@@ -140,4 +140,6 @@ Requirements captured???
 
 # Meetings
 ## Payments
-- During normal enrollment for full rollout and also seating for beta, how do we want to create memberships? Membership representations in the payments system, when a new person is seated or enrolled. Let's talk through that flow.
+- During normal enrollment for full rollout and also seating for beta, how do we want to create membership representations in the payments system, when a new person is seated or enrolled. Let's talk through that flow.
+## Everyone
+- How will beta enrollment go from start to finish? Who owns driving this? Sterba?

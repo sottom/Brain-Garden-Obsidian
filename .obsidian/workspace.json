@@ -516,7 +516,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -688,10 +688,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "91d737e931f133f3",
+  "active": "f183f34943135175",
   "lastOpenFiles": [
-    "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
     "CRS needs.md",
+    "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
     "Pasted image 20260718165758.png",
     "Excalidraw/Multiple Receipts Loyalty F&D.md",
     "Pasted image 20260718155954.png",
