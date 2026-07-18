@@ -60,18 +60,6 @@
             }
           },
           {
-            "id": "a1fc557bbd520b1e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Multiple Receipts Loyalty F&D.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Multiple Receipts Loyalty F&D"
-            }
-          },
-          {
             "id": "e4893e674e16f6d0",
             "type": "leaf",
             "state": {
@@ -83,6 +71,18 @@
               },
               "icon": "lucide-file",
               "title": "Untitled 8"
+            }
+          },
+          {
+            "id": "a1fc557bbd520b1e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Multiple Receipts Loyalty F&D.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Multiple Receipts Loyalty F&D"
             }
           },
           {
@@ -516,7 +516,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
