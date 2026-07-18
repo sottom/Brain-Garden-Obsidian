@@ -139,9 +139,13 @@ Discuss manual upload flow - [[Excalidraw/Multiple Receipts Loyalty F&D.md#^3Ved
 Add story for systems trust matrix for full rollout - System Trust Matix
 authorization (grants for read / write) 
 # TODOs
+## All
+- Update to new naming (Diamond) in library
 ## CRS
 - Payments apis analysis
 	- how will someone get enrolled?
+
+
 
 
 # Meetings
