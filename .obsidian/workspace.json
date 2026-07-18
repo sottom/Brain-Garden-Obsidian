@@ -540,7 +540,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -712,11 +712,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "91d737e931f133f3",
+  "active": "6527077060ce16b8",
   "lastOpenFiles": [
+    "CRS needs.md",
     "Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md",
     "Excalidraw/Loyalty F&D Environments.md",
-    "CRS needs.md",
     "Pasted image 20260718150453.png",
     "ECOMM Questions.md",
     "Excalidraw/Timelines & Gantt Charts F&D Loyalty.md",
