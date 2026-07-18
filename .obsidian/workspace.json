@@ -11,11 +11,13 @@
             "id": "0cd34b4ced652559",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Multiple Receipts Loyalty F&D.md"
+                "file": "Excalidraw/Multiple Receipts Loyalty F&D.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
+              "icon": "lucide-file",
               "title": "Multiple Receipts Loyalty F&D"
             }
           },
