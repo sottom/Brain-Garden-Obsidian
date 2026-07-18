@@ -31,8 +31,7 @@ Who do we need to bring in? What levels?
 
 
 
-Project Bid Room Quotes (free delivery over $10k) - need a reason code
-ask Derek
+Project Bid Room Quotes (free delivery over $10k) - need a reason code ask Derek
 
 Get diagrams in central location.
 
