@@ -128,6 +128,7 @@ Requirements captured???
 - storagebuy
 - register
 - accounting
+
 ![[Pasted image 20260718165758.png]]
 
 
@@ -139,4 +140,4 @@ Requirements captured???
 
 # Meetings
 ## Payments
-- During normal enrollment for full rollout and also seating for beta, how do we want to create? Membership representations in the payments system, when a new person is seated or enrolled. Let's talk through that flow.
+- During normal enrollment for full rollout and also seating for beta, how do we want to create memberships? Membership representations in the payments system, when a new person is seated or enrolled. Let's talk through that flow.
