@@ -7,6 +7,9 @@ What needs done next week, by when?
 - Payments apis analysis
 	- how will someone get enrolled?
 - Resolve by Membership ID
+- Under preference object
+	- marketingSmsOptIn
+	- loyaltyPushNotificationOptIn
 
 ## Conversations
 Monday - 7
@@ -26,10 +29,7 @@ Tuesday
 
 Who do we need to bring in? What levels?
 
-Requirements
-- Under preference object
-	- marketingSmsOptIn
-	- loyaltyPushNotificationOptIn
+
 
 Project Bid Room Quotes (free delivery over $10k) - need a reason code
 ask Derek
