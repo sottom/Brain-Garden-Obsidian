@@ -1,3 +1,5 @@
+What needs done next week, by when?
+
 Requirements
 - [Loyalty 2.0] Storage-Buy / Take-With Receipt Identifiers — Pro App Scan & Loyalty De-Dup
 - resolve by membership id
