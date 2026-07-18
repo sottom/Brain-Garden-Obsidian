@@ -88,16 +88,6 @@
             }
           },
           {
-            "id": "a666f4ee3077a6a4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
             "id": "8319636776bb47bb",
             "type": "leaf",
             "state": {
@@ -637,7 +627,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "db0deff7d5893238",
+  "active": "8319636776bb47bb",
   "lastOpenFiles": [
     "Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md",
     "Excalidraw/F&D Organization Setup with AI.md",
