@@ -6,24 +6,27 @@ What needs done next week, by when?
 ## CRS
 - Payments apis analysis
 	- how will someone get enrolled?
+- Resolve by Membership ID
+
+## Conversations
+Monday - 7
+- 2-Handling Receipts
+
+Tuesday
 # Meetings
 ## Payments
 - During normal enrollment for full rollout and also seating for beta, how do we want to create membership representations in the payments system, when a new person is seated or enrolled. Let's talk through that flow.
 ## Everyone
 - How will beta enrollment go from start to finish? Who owns driving this? Sterba?
 
-Monday - 7
-- 2-Handling Receipts
 
-Tuesday
+
 
 
 
 Who do we need to bring in? What levels?
 
 Requirements
-- [Loyalty 2.0] Storage-Buy / Take-With Receipt Identifiers — Pro App Scan & Loyalty De-Dup
-- resolve by membership id
 - Under preference object
 	- marketingSmsOptIn
 	- loyaltyPushNotificationOptIn
