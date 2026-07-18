@@ -105,4 +105,6 @@ Begin planning out Full Rollout
 Make stories
 
 
+Simulate API
+Evaluate if rules can be used api
 ![[Pasted image 20260718150453.png]]
