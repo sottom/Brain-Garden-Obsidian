@@ -120,8 +120,8 @@ SNOW ticket for admin account re-activation
 
 
 Requirements captured???
-- marketing
-- analytics
+- marketing - set up meeting
+- analytics - get austin what he needs
 - app
 - ecomm
 - myproject
