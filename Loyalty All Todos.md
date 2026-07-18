@@ -1,5 +1,17 @@
 What needs done next week, by when?
 
+# TODOs
+## All
+- Update to new naming (Diamond) in library
+## CRS
+- Payments apis analysis
+	- how will someone get enrolled?
+# Meetings
+## Payments
+- During normal enrollment for full rollout and also seating for beta, how do we want to create membership representations in the payments system, when a new person is seated or enrolled. Let's talk through that flow.
+## Everyone
+- How will beta enrollment go from start to finish? Who owns driving this? Sterba?
+
 Who do we need to bring in? What levels?
 
 Requirements
@@ -138,21 +150,7 @@ Discuss manual upload flow - [[Excalidraw/Multiple Receipts Loyalty F&D.md#^3Ved
 
 Add story for systems trust matrix for full rollout - System Trust Matix
 authorization (grants for read / write) 
-# TODOs
-## All
-- Update to new naming (Diamond) in library
-## CRS
-- Payments apis analysis
-	- how will someone get enrolled?
 
-
-
-
-# Meetings
-## Payments
-- During normal enrollment for full rollout and also seating for beta, how do we want to create membership representations in the payments system, when a new person is seated or enrolled. Let's talk through that flow.
-## Everyone
-- How will beta enrollment go from start to finish? Who owns driving this? Sterba?
 
 # Other
 - Look at EF Expectations for teammates
