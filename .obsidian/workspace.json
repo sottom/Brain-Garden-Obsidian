@@ -100,6 +100,18 @@
             }
           },
           {
+            "id": "d660902d95d9194b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-07-18 17.38.45.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-07-18 17.38.45.excalidraw"
+            }
+          },
+          {
             "id": "9fbb75380019569d",
             "type": "leaf",
             "state": {
@@ -689,9 +701,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9fbb75380019569d",
+  "active": "d660902d95d9194b",
   "lastOpenFiles": [
     "Floor038 Loyalty/F&D Loyalty Diagram.md",
+    "Excalidraw/Drawing 2026-07-18 17.38.45.excalidraw.md",
     "Loyalty Dev Team Enjoyment Scores.md",
     "Excalidraw/F&D Organization Setup with AI.md",
     "Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md",
@@ -729,7 +742,6 @@
     "Excalidraw/POS Flows & Systems Needed Old F&D Loyalty.md",
     "Pasted Image 20260717155117_501.png",
     "Untitled.md",
-    "Excalidraw/Drawing 2026-04-16 16.11.49.excalidraw.md",
     "plan-forge/package-lock.json",
     "plan-forge/node_modules/electron/path.txt",
     "plan-forge/node_modules/electron/dist/LICENSES.chromium.html",

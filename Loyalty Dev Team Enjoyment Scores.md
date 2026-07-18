@@ -17,3 +17,8 @@ Follow up with team about what they could do to raise their number to a higher-l
 How team is feeling
 
 # Second time
+**Enjoyment of the project scores**  
+ (same) 8-9/10 Mitchell  
+ 5->7 / 10 Jacob W - more ownership, less long meetings, more able to focus.  
+ 4 -> 7 / 10 Jacob M - being able to speak to things others don't know as much about (same as a mitchell 9 if we adjust for the positivity ;) )  
+ 7.5 -> 8 / 10 Maria - learning a lot about CI/CD. Don't like creating tickets and being ignored in teams. More responsibility.
