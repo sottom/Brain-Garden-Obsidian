@@ -1,0 +1,103 @@
+```xml
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<XML>
+    <Header>
+        <Source>POS</Source>
+        <CompanyId>FND</CompanyId>
+        <MessageType>POS Inventory Update</MessageType>
+        <CustomerNumber>905320981</CustomerNumber>
+        <PickupCustomerNumber></PickupCustomerNumber>
+        <Created>2026-05-21T16:01:16-0400</Created>
+        <ReferenceNumber>1031902611815406</ReferenceNumber>
+        <DeliveredTotal>1291.24</DeliveredTotal>
+        <WrittenTotal>1291.24</WrittenTotal>
+        <StoreNumber>319</StoreNumber>
+        <AssociateId>115196</AssociateId>
+        <AssociateName>Skylar Miller</AssociateName>
+        <TransTypeId>1</TransTypeId>
+        <MyOrderQuoteId>MQ319XCW9USWTT5</MyOrderQuoteId>
+        <ContractorNumber></ContractorNumber>
+        <OmsStoreOrder>false</OmsStoreOrder>
+        <InitStore>319</InitStore>
+    </Header>
+    <Products>
+        <Product>
+            <TransactionNumber>1031902611815406</TransactionNumber>
+            <TransTypeId>1</TransTypeId>
+            <OrderNumber></OrderNumber>
+            <OMSOrderNumber></OMSOrderNumber>
+            <DOLineNumber></DOLineNumber>
+            <COLineNumber></COLineNumber>
+            <SKUNumber>100969187</SKUNumber>
+            <SKUDescription>POR 10X11 VITA BELLA HEX MOS</SKUDescription>
+            <IsShipping></IsShipping>
+            <Quantity>25</Quantity>
+            <TransactionDTTM>Thu May 21 16:01:16 EDT 2026</TransactionDTTM>
+            <TotalPickedQuantity></TotalPickedQuantity>
+            <TotalShippedQuantity></TotalShippedQuantity>
+            <OriginalOrderedQuantity></OriginalOrderedQuantity>
+            <OriginalTransactionNumber>1031902611815406</OriginalTransactionNumber>
+            <SourceLocation>319</SourceLocation>
+            <FulfillingLocation>319</FulfillingLocation>
+            <SampleSubstitutuion>false</SampleSubstitutuion>
+            <ReasonCode>0</ReasonCode>
+            <EachPrice>16.79</EachPrice>
+            <OriginalTransactionTimestamp></OriginalTransactionTimestamp>
+        </Product>
+        <Product>
+            <TransactionNumber>1031902611815406</TransactionNumber>
+            <TransTypeId>1</TransTypeId>
+            <OrderNumber></OrderNumber>
+            <OMSOrderNumber></OMSOrderNumber>
+            <DOLineNumber></DOLineNumber>
+            <COLineNumber></COLineNumber>
+            <SKUNumber>101377083</SKUNumber>
+            <SKUDescription>POR 12X24 DOLCE VITA POL</SKUDescription>
+            <IsShipping></IsShipping>
+            <Quantity>105</Quantity>
+            <TransactionDTTM>Thu May 21 16:01:16 EDT 2026</TransactionDTTM>
+            <TotalPickedQuantity></TotalPickedQuantity>
+            <TotalShippedQuantity></TotalShippedQuantity>
+            <OriginalOrderedQuantity></OriginalOrderedQuantity>
+            <OriginalTransactionNumber>1031902611815406</OriginalTransactionNumber>
+            <SourceLocation>319</SourceLocation>
+            <FulfillingLocation>319</FulfillingLocation>
+            <SampleSubstitutuion>false</SampleSubstitutuion>
+            <ReasonCode>0</ReasonCode>
+            <EachPrice>8.11</EachPrice>
+            <OriginalTransactionTimestamp></OriginalTransactionTimestamp>
+        </Product>
+        <Product>
+            <TransactionNumber>1031902611815406</TransactionNumber>
+            <TransTypeId>1</TransTypeId>
+            <OrderNumber></OrderNumber>
+            <OMSOrderNumber></OMSOrderNumber>
+            <DOLineNumber></DOLineNumber>
+            <COLineNumber></COLineNumber>
+            <SKUNumber>100221431</SKUNumber>
+            <SKUDescription>UCOLORPLUS  FA 101 RAIN 10LB</SKUDescription>
+            <IsShipping></IsShipping>
+            <Quantity>1</Quantity>
+            <TransactionDTTM>Thu May 21 16:01:16 EDT 2026</TransactionDTTM>
+            <TotalPickedQuantity></TotalPickedQuantity>
+            <TotalShippedQuantity></TotalShippedQuantity>
+            <OriginalOrderedQuantity></OriginalOrderedQuantity>
+            <OriginalTransactionNumber>1031902611815406</OriginalTransactionNumber>
+            <SourceLocation>319</SourceLocation>
+            <FulfillingLocation>319</FulfillingLocation>
+            <SampleSubstitutuion>false</SampleSubstitutuion>
+            <ReasonCode>0</ReasonCode>
+            <EachPrice>19.94</EachPrice>
+            <OriginalTransactionTimestamp></OriginalTransactionTimestamp>
+        </Product>
+    </Products>
+    <Tenders>
+        <Tender>
+            <TenderType>201</TenderType>
+            <TenderCode>CA</TenderCode>
+            <TenderName>Cash</TenderName>
+            <TenderAmount>1,340.00</TenderAmount>
+        </Tender>
+    </Tenders>
+</XML>
+```
