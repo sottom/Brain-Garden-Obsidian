@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CRS needs.md",
+                "file": "Loyalty All Todos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CRS needs"
+              "title": "Loyalty All Todos"
             }
           },
           {
@@ -516,7 +516,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -688,10 +688,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "404dc2dfc4cb319f",
+  "active": "91d737e931f133f3",
   "lastOpenFiles": [
+    "Pasted image 20260718172250.png",
     "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
-    "CRS needs.md",
+    "Loyalty All Todos.md",
     "Pasted image 20260718165758.png",
     "Excalidraw/Multiple Receipts Loyalty F&D.md",
     "Pasted image 20260718155954.png",
