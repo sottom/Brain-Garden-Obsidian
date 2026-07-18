@@ -67,8 +67,8 @@
               "state": {
                 "file": "Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md"
               },
-              "icon": "lucide-ghost",
-              "title": "excalidraw"
+              "icon": "excalidraw-icon",
+              "title": "F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty"
             }
           },
           {
@@ -539,7 +539,8 @@
               "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -711,17 +712,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e5def790108558cd",
+  "active": "91d737e931f133f3",
   "lastOpenFiles": [
-    "Excalidraw/Loyalty F&D Environments.md",
+    "Pasted image 20260718150453.png",
+    "Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md",
     "CRS needs.md",
     "ECOMM Questions.md",
+    "Excalidraw/Timelines & Gantt Charts F&D Loyalty.md",
+    "Excalidraw/Loyalty F&D Environments.md",
     "Eleri Feedback on Fintalk.md",
     "Acworth Missionaries.md",
     "Eleri Floyd.md",
     "AI Development Milestones.md",
     "Paul Viola notes on Team Nova F&D.md",
-    "Excalidraw/Timelines & Gantt Charts F&D Loyalty.md",
     "Pasted image 20260718143202.png",
     "Excalidraw/Loyalty User Story Mapping.md",
     "Pasted image 20260718142957.png",
@@ -734,7 +737,6 @@
     "git_push_log.log",
     "git_auto_push.sh",
     "Excalidraw/F&D Payments PCI Azure Subscription.md",
-    "Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md",
     "Excalidraw/POS Flows & Systems Needed Old F&D Loyalty.md",
     "Pasted Image 20260717155117_501.png",
     "Pasted Image 20260717154104_202.png",
@@ -751,7 +753,6 @@
     "Excalidraw/F&D Loyalty Accounting Needs Liability.md",
     "Untitled 8.md",
     "Sample Liability Email Loyalty 2.0 Floor & Decor.md",
-    "Untitled 7.md",
     "plan-forge/package-lock.json",
     "plan-forge/node_modules/electron/path.txt",
     "plan-forge/node_modules/electron/dist/LICENSES.chromium.html",
