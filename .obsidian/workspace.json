@@ -27,8 +27,8 @@
               "state": {
                 "file": "Excalidraw/Drawing 2026-07-08 07.12.28.excalidraw.md"
               },
-              "icon": "lucide-ghost",
-              "title": "excalidraw"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-07-08 07.12.28.excalidraw"
             }
           },
           {
@@ -753,6 +753,10 @@
   },
   "active": "0cd34b4ced652559",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-07-08 07.12.28.excalidraw.md",
+    "Paul Viola notes on Team Nova F&D.md",
+    "Pasted image 20260718073625.png",
+    "Excalidraw/Loyalty User Story Mapping.md",
     "Excalidraw/F&D Organization Setup with AI.md",
     "Excalidraw/Loyalty F&D Environments.md",
     "git_push_log.log.tmp",
@@ -766,7 +770,6 @@
     "CRS needs.md",
     "Pasted Image 20260717155117_501.png",
     "Pasted Image 20260717154104_202.png",
-    "Excalidraw/Drawing 2026-07-08 07.12.28.excalidraw.md",
     "Untitled.md",
     "Pasted Image 20260717112252_820.png",
     "Pasted Image 20260717111103_047.png",
@@ -776,11 +779,9 @@
     "Pasted image 20260716143958.png",
     "Pasted Image 20260716143946_449.png",
     "Pasted Image 20260716143913_103.png",
-    "Pasted image 20260716143831.png",
     "ECOMM Questions.md",
     "Untitled 9.md",
     "Acworth Missionaries.md",
-    "Excalidraw/Loyalty User Story Mapping.md",
     "Excalidraw/Drawing 2026-04-16 16.11.49.excalidraw.md",
     "Excalidraw/Floor & Decor Loyalty Systems Integrations - CARS Focused.md",
     "Excalidraw/Drawing 2026-05-18 12.58.33.excalidraw.md",
@@ -790,7 +791,6 @@
     "Untitled 7.md",
     "Coaching at Pariveda as a Manager.md",
     "Feedback Jacob McCarthy.md",
-    "Jacob Osborn.md",
     "plan-forge/package-lock.json",
     "plan-forge/node_modules/electron/path.txt",
     "plan-forge/node_modules/electron/dist/LICENSES.chromium.html",
