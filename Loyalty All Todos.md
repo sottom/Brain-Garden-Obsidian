@@ -35,7 +35,7 @@ Who do we need to bring in? What levels?
 
 
 
-QAs come up with a process for updating based on changes in repo (follow up with Ravi)
+
 
 Determine what type of resources are needed for project to succeed. (not just how many)
 
