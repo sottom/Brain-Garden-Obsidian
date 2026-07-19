@@ -16,6 +16,10 @@ What needs done next week, by when?
 	- marketingSmsOptIn
 	- loyaltyPushNotificationOptIn
 
+## BFF & WIMS
+- TSR [Blanton, Jarrod, +2 | Group Chat | Microsoft Teams](https://teams.microsoft.com/l/chat/19:cb1eaf06f9644a3bb9a299e74d02b654@thread.v2/conversations?context=%7B%22contextType%22%3A%22chat%22%7D)
+
+
 ## Membership
 - Users for QA in databases to validate their data needs - https://flooranddecor.atlassian.net/browse/CENT-939
 
@@ -71,7 +75,7 @@ ECOMM APIs - review
 
 
 
-Talk to Paul/Jarrod about TSR by Friday/Wednesday July 22
+
 
 Timelines of:
 ==Order History Endpoint - timeline== - paul defining what is needed, but Loyalty needs to get them a contract as soon as we can.
