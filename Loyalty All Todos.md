@@ -26,15 +26,19 @@ What needs done next week, by when?
 - Under preference object - https://flooranddecor.atlassian.net/browse/CENT-937?focusedCommentId=341089
 	- marketingSmsOptIn
 	- loyaltyPushNotificationOptIn
-
-# Comms Orchestrator (Marketing)
+## Comms Orchestrator (Marketing)
 - Talk to Duy about the need for a new event (notifications for the app when something is picked up).
 ## BFF & WIMS
 - TSR [Blanton, Jarrod, +2 | Group Chat | Microsoft Teams](https://teams.microsoft.com/l/chat/19:cb1eaf06f9644a3bb9a299e74d02b654@thread.v2/conversations?context=%7B%22contextType%22%3A%22chat%22%7D)
 ## Membership
 - Users for QA in databases to validate their data needs - https://flooranddecor.atlassian.net/browse/CENT-939
 
-## Team Conversations
+
+
+
+
+
+# Team Conversations
 **Timelines for contracts and in-dev-by dates**
 - Evaluate Benefits Usage endpoint (unique id for interaction) [[Pasted image 20260718172250.png]]
 - 2 - Handling Receipts endpoint [[Excalidraw/Multiple Receipts Loyalty F&D.md#^3VedIycz|Receipts Diagram]]

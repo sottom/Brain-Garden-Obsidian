@@ -116,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "/mark holland",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "20d6ba111bc01a1a",
