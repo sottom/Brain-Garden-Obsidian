@@ -45,7 +45,8 @@
               "title": "Loyalty All Todos"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,8 +219,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e5def790108558cd",
+  "active": "f183f34943135175",
   "lastOpenFiles": [
+    "Excalidraw/Timelines & Gantt Charts F&D Loyalty.md",
     "Loyalty All Todos.md",
     "ECOMM Questions F&D Loyalty 7-16-2026.md",
     "DailyNotes/2026-04-20 (Mon).md",
@@ -245,7 +247,6 @@
     "Untitled 6.md",
     "Excalidraw/F&D Loyalty Accounting Needs Liability.md",
     "Excalidraw/Floor & Decor Loyalty Systems Integrations - CARS Focused.md",
-    "Excalidraw/Loyalty F&D Azure Environments & Kubernetes notes.md",
     "Pasted image 20260718172250.png",
     "Pasted image 20260718165758.png",
     "Pasted image 20260718155954.png",
