@@ -3,7 +3,7 @@ What needs done next week, by when?
 # TODOs
 ## All
 - Update to new naming (Diamond) in library
-- Get accounting requirements into library - **Accounting Requirements** - need a little bit more clarification - https://flooranddecor.atlassian.net/browse/CENT-867
+- Get accounting requirements into library - https://flooranddecor.atlassian.net/browse/CENT-867
 ## CRS
 - Payments apis analysis - https://flooranddecor.atlassian.net/browse/CENT-972
 	- how will someone get enrolled?
