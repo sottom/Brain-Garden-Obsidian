@@ -3,6 +3,7 @@
 - Reply to ECOMM message with dates and times for getting answers.
 - Talk to Evan about Pizza Party (schedule for next Tuesday???)
 
+
 # To Confirm
 - ==**(ECOMM/Loyalty/CRM) Notification preferences** meeting — meeting needed on what's required from CRM and how to update it (beta vs. full launch). Notes: no notifications to the website; no SMS opt-in from the app for October. Mark Holland wants it for Beta (aware Sydney removed it from the app for Beta) — need to confirm CRM is committed for Beta, and whether it routes through CRS.==
 
@@ -13,11 +14,12 @@
 # TODO
 ## Mitchell
 - Update to new naming (Diamond) in library
+- Review new requirements with Liz and Evan - https://flooranddecor.atlassian.net/jira/dashboards/19407
 - Get accounting requirements into library - https://flooranddecor.atlassian.net/browse/CENT-867
 - (Tuesday) Membership - make stories, get maria a buddy (jacob out next week), make mock data
 - Check with Jarrod 7/24 to see if there are any gaps between what app needs and what CRS is providing BFF.
 - Get clear on correlation ids and why and how we should use them in our program.
-- Ask team to review mockups for loyalty hub - https://www.figma.com/design/LN4FPxLVJc6aOBlQLafPLV/Floor-and-Decor-Discovery?node-id=1680-4422&p=f
+- Ask team to review mockups for loyalty hub - https://flooranddecor.atlassian.net/browse/CENT-976
 - Assign Performance testing sign-off to Shane? (tell Keerthi)
 - Not until August? - Begin planning out Full Rollout
 	- F&D Admin Controls
@@ -44,6 +46,7 @@
 
 # Team Conversations
 **Timelines for contracts and in-dev-by dates**
+- Review new requirements with Liz and Evan - https://flooranddecor.atlassian.net/jira/dashboards/19407
 - Evaluate Benefits Usage endpoint (unique id for interaction) [[Pasted image 20260718172250.png]]
 - 2 - Handling Receipts endpoint [[Excalidraw/Multiple Receipts Loyalty F&D.md#^3VedIycz|Receipts Diagram]]
 - **loyalty simulation endpoint** - returns Pro Bucks earned? Resulting tier from spend? Or accrual only?
@@ -64,7 +67,7 @@
 - (Shane owns) Meeting with Karl about sales feed (Shane - Monday) and payments api.
 ## Marketing
 Lane/Omar - communication with Marketing (intro meeting for them to understand our designs)
-Clarify marketing requirements and how to fulfill them (asked - [Loyalty Comms Orchestrator Dev Team | Group Chat | Microsoft Teams](https://teams.microsoft.com/l/chat/19:75225caeb0b5439584c5e490ab9c47a1@thread.v2/conversations?context=%7B%22contextType%22%3A%22chat%22%7D))
+Clarify marketing requirements and how to fulfill them (asked - [Loyalty Comms Orchestrator Dev Team | Group Chat | Microsoft Teams](https://teams.microsoft.com/l/chat/19:75225caeb0b5439584c5e490ab9c47a1@thread.v2/conversations?context=%7B%22contextType%22%3A%22chat%22%7D)) - [PRO Loyalty Lifecycle Touchpoints_v4_10June2026_LIVE.xlsx](https://flooranddecor-my.sharepoint.com/:x:/p/as116009/IQB3Ppnper-IR5Sz2EfjHOryAbScl1e9gGqg6mVw_n2a6B8?e=2TxMeA)
 - Talk to Duy about the need for a new event (notifications for the app when something is picked up).
 # QA
 - Keerthi to set up Performance testing conversation
@@ -75,7 +78,7 @@ Clarify marketing requirements and how to fulfill them (asked - [Loyalty Comms O
 
 
 # Notes
-- Lori Murphy - has mockups for pro app.
+
 
 
 
