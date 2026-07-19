@@ -39,7 +39,7 @@
 5. Will we get the cash rebate money applicable to any given order for Order Details? or just the aggregate view in My Account?
 - Order History page only shows spend accrued per order. You redeemed X benefits on this order as well.
 - Order History Detail page - we save pending vs actual accrual on the order in Loyalty Engine. This should support the page below. The SIMULATE endpoint may be different from the silver box below (but that is shown at checkout). ==- (Mitchell) Confirm with Derek & Paul that we can support this.==
-	- ![[Pasted image 20260716114128.png]]
+	- ![[Pasted image 20260716114128.png|638]]
 
 7. Returns/adjustments — if an order is partially returned after accrual becomes available, does the box restate the adjusted amount, or does the correction live only in benefit history? Recommend the box always shows the ledger's current value for the order.
 

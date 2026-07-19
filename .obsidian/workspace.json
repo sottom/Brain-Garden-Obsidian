@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -125,8 +125,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -245,10 +244,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "dacccb4a12af2551",
+  "active": "fb2d351cb33e3135",
   "lastOpenFiles": [
-    "Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md",
+    "Pasted Image 20260718210946_415.png",
     "ECOMM Questions F&D Loyalty 7-16-2026.md",
+    "Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md",
     "Loyalty All Todos.md",
     "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
     "Excalidraw/Timelines & Gantt Charts F&D Loyalty.md",
@@ -272,7 +272,6 @@
     "Next Steps.md",
     "F&D Loyalty Tier example - need more of these.md",
     "Untitled 6.md",
-    "Excalidraw/F&D Loyalty Accounting Needs Liability.md",
     "Pasted image 20260718172250.png",
     "Pasted image 20260718165758.png",
     "Pasted image 20260718155954.png",
