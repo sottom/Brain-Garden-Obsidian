@@ -54,7 +54,7 @@ What needs done next week, by when?
 ## Payments
 - During normal enrollment for full rollout and also seating for beta, how do we want to create membership representations in the payments system, when a new person is seated or enrolled. Let's talk through that flow.
 - (Shane owns) Meeting with Karl about sales feed (Shane - Monday) and payments api.
-# Marketing
+## Marketing
 Lane/Omar - communication with Marketing (intro meeting for them to understand our designs)
 Clarify marketing requirements and how to fulfill them (asked - [Loyalty Comms Orchestrator Dev Team | Group Chat | Microsoft Teams](https://teams.microsoft.com/l/chat/19:75225caeb0b5439584c5e490ab9c47a1@thread.v2/conversations?context=%7B%22contextType%22%3A%22chat%22%7D))
 - Talk to Duy about the need for a new event (notifications for the app when something is picked up).
@@ -63,12 +63,17 @@ Clarify marketing requirements and how to fulfill them (asked - [Loyalty Comms O
 ## Everyone
 - How will beta **enrollment** go from start to finish? Who owns driving this? Sterba?
 
+
+
+
 # Notes
 - Lori Murphy - has mockups for pro app.
 
 
-Use AI, build, review code, deploy, solve
+Use AI, build, review code, deploy, solve problems
 ==Determine what type of resources are needed for project to succeed. (not just how many)==
+
+
 
 
 # Other
