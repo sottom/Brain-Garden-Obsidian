@@ -4,7 +4,7 @@ What needs done next week, by when?
 ## All
 - Update to new naming (Diamond) in library
 ## CRS
-- Payments apis analysis
+- Payments apis analysis - https://flooranddecor.atlassian.net/browse/CENT-972
 	- how will someone get enrolled?
 - Resolve by Membership ID - https://flooranddecor.atlassian.net/browse/CENT-942
 - Under preference object - https://flooranddecor.atlassian.net/browse/CENT-937?focusedCommentId=341089
