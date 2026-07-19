@@ -17,6 +17,7 @@
 - (Tuesday) Membership - make stories, get maria a buddy (jacob out next week), make mock data
 - Check with Jarrod 7/24 to see if there are any gaps between what app needs and what CRS is providing BFF.
 - Get clear on correlation ids and why and how we should use them in our program.
+- Ask team to review mockups for loyalty hub - https://www.figma.com/design/LN4FPxLVJc6aOBlQLafPLV/Floor-and-Decor-Discovery?node-id=1680-4422&p=f
 - Assign Performance testing sign-off to Shane? (tell Keerthi)
 - Not until August? - Begin planning out Full Rollout
 	- F&D Admin Controls
