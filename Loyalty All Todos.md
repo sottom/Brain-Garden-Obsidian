@@ -32,18 +32,19 @@ Tuesday
 
 
 Who do we need to bring in? What levels?
-
-
-
-
-
 Determine what type of resources are needed for project to succeed. (not just how many)
 
-CRS - make stories
+
 
 Membership - make stories, get maria a buddy (jacob out next week), make mock data
 
+
+
+
 **Accounting Requirements** - need a little bit more clarification
+
+
+
 
 ECOMM APIs - review 
 - Get the **timeline for Order History design** delivery from the Loyalty team — pending vs. actual. _(Due Wed July 22)_
