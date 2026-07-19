@@ -19,7 +19,7 @@ What needs done next week, by when?
 Monday - 7
 - 2 - Handling Receipts
 - 2 - Accounting Requirements
-- 6 - Order History design
+- 6 - Order History design - [[Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md#^R3Atgq5u|Order HIstory Accrual Picture]]
 - Hold Endpoints
 - **loyalty simulation endpoint** - returns Pro Bucks earned? Resulting tier from spend? Or accrual only?
 
