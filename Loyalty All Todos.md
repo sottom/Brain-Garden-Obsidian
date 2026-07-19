@@ -95,12 +95,6 @@ ECOMM APIs - review (all are represented above - ==still need to message the gro
 
 
 
-
-
-- Talk to Karl about api contracts 7/17, cars team starts testing those apis 7/17.
-- Timelines for History 
-- Send over data to Austin Knuckols about membership data. CC Karthik
-
 Review requirements against planned functional designs (excel sheet)
 Review Keerthi's document to see if we missed anything in our designs
 
