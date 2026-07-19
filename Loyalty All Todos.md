@@ -6,8 +6,8 @@ What needs done next week, by when?
 ## CRS
 - Payments apis analysis
 	- how will someone get enrolled?
-- Resolve by Membership ID
-- Under preference object
+- Resolve by Membership ID - https://flooranddecor.atlassian.net/browse/CENT-942
+- Under preference object - https://flooranddecor.atlassian.net/browse/CENT-937?focusedCommentId=341089
 	- marketingSmsOptIn
 	- loyaltyPushNotificationOptIn
 
