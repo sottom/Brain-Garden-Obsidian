@@ -25,6 +25,7 @@
 	- F&D Admin Controls
 	- Add story for systems trust matrix for full rollout - System Trust Matix service
 - SNOW ticket for admin account re-activation
+- Set up fin triangles
 ## CRS
 - Payments apis analysis - https://flooranddecor.atlassian.net/browse/CENT-972
 	- how will someone get enrolled?
