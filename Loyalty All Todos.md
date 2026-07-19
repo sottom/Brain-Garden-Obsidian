@@ -36,6 +36,8 @@ What needs done next week, by when?
 - 6 - Order History design - [[Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md#^R3Atgq5u|Order HIstory Accrual Picture]]
 - Hold Endpoints
 - - 2 - Accounting Requirements
+- Fraud
+- replay of events on outage
 
 
 
@@ -91,10 +93,6 @@ ECOMM APIs - review (all are represented above - ==still need to message the gro
 
 
 
-
-
-Loyalty items without much knowledge -- Fraud, replay of events on outage.
-Performance Benchmarks talk with Keerthi.
 
 I'm approver for performance testing...ask if Evan cares who does this. I don't want to.
 ![[Pasted image 20260716143958.png]]
