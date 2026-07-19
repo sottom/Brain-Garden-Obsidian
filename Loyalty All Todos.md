@@ -32,7 +32,7 @@ What needs done next week, by when?
 
 ## Team Conversations
 **Timelines for contracts and in-dev-by dates**
-- Evaluate Benefits Usage endpoint
+- Evaluate Benefits Usage endpoint (unique id for interaction)
 - 2 - Handling Receipts endpoint
 - **loyalty simulation endpoint** - returns Pro Bucks earned? Resulting tier from spend? Or accrual only?
 - 6 - Order History design - [[Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md#^R3Atgq5u|Order HIstory Accrual Picture]]
@@ -97,7 +97,7 @@ ECOMM APIs - review (all are represented above - ==still need to message the gro
 
 
 
-![[Pasted image 20260718150453.png]]
+
 
 POS
 ![[Pasted image 20260718155838.png]]
