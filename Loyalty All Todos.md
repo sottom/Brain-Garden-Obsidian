@@ -12,7 +12,7 @@ What needs done next week, by when?
 - Update to new naming (Diamond) in library
 - Get accounting requirements into library - https://flooranddecor.atlassian.net/browse/CENT-867
 - (Tuesday) Membership - make stories, get maria a buddy (jacob out next week), make mock data
-- Check with Jarrod 7/24 to see if there are any gaps 
+- Check with Jarrod 7/24 to see if there are any gaps between what app needs and what CRS is providing BFF.
 ## CRS
 - Payments apis analysis - https://flooranddecor.atlassian.net/browse/CENT-972
 	- how will someone get enrolled?
@@ -50,6 +50,8 @@ Clarify marketing requirements and how to fulfill them (asked - [Loyalty Comms O
 ## Everyone
 - How will beta **enrollment** go from start to finish? Who owns driving this? Sterba?
 
+# Notes
+- Lori Murphy - has mockups for pro app.
 
 
 
@@ -82,19 +84,6 @@ ECOMM APIs - review (all are represented above - ==still need to message the gro
 
 
 
-
-
-There are gaps between the app mockups and
-what the loyalty library can do, Jarrod going to tell us after testing.
-
-Is another transaction already applied
-is it within 45 days
-(approved or denied right away)
-- if delivered, give actual, if not, give pending
-
-Do storage buy receipts (two of them) have the same transaction/order id? we need to key off of them for receipt uploads.
-
-Lori Murphy - has mockups for app.
 
 Talk to Duy about the need for a new event (notifications for the app when something is picked up).
 
