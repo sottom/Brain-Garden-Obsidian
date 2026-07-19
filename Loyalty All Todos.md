@@ -17,11 +17,12 @@ What needs done next week, by when?
 
 ## Team Conversations
 Monday - 7
-- 2 - Handling Receipts
-- 2 - Accounting Requirements
+- Evaluate Benefits Usage endpoint
+- 2 - Handling Receipts endpoint
+- **loyalty simulation endpoint** - returns Pro Bucks earned? Resulting tier from spend? Or accrual only?
 - 6 - Order History design - [[Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md#^R3Atgq5u|Order HIstory Accrual Picture]]
 - Hold Endpoints
-- **loyalty simulation endpoint** - returns Pro Bucks earned? Resulting tier from spend? Or accrual only?
+- - 2 - Accounting Requirements
 
 Tuesday
 # Meetings
