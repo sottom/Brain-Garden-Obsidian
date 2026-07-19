@@ -80,17 +80,7 @@ Who do we need to bring in? What levels?
 
 
 
-Requirements captured???
-- marketing - set up meeting
-- analytics - get austin what he needs
-- app
-- ecomm
-- myproject
-- storagebuy
-- register
-- accounting
-- Internal Audit
-- Infrastructure (DevOps)
+
 
 ![[Pasted image 20260718165758.png]]
 ![[Pasted image 20260718172250.png]]
