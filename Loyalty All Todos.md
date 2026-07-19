@@ -35,8 +35,8 @@ What needs done next week, by when?
 
 ## Team Conversations
 **Timelines for contracts and in-dev-by dates**
-- Evaluate Benefits Usage endpoint (unique id for interaction)
-- 2 - Handling Receipts endpoint
+- Evaluate Benefits Usage endpoint (unique id for interaction) [[Pasted image 20260718172250.png]]
+- 2 - Handling Receipts endpoint [[Excalidraw/Multiple Receipts Loyalty F&D.md#^3VedIycz|Receipts Diagram]]
 - **loyalty simulation endpoint** - returns Pro Bucks earned? Resulting tier from spend? Or accrual only?
 - 6 - Order History design - [[Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md#^R3Atgq5u|Order HIstory Accrual Picture]]
 - Hold Endpoints (unique id for interaction) - see [[Pasted image 20260718150453.png]]
@@ -84,10 +84,10 @@ Who do we need to bring in? What levels?
 
 
 
-![[Pasted image 20260718165758.png]]
-![[Pasted image 20260718172250.png]]
 
-Discuss manual upload flow - [[Excalidraw/Multiple Receipts Loyalty F&D.md#^3VedIycz|Receipts Diagram]]
+
+
+
 
 Add story for systems trust matrix for full rollout - System Trust Matix
 authorization (grants for read / write) 
