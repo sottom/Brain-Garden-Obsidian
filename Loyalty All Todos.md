@@ -80,27 +80,6 @@ Who do we need to bring in? What levels?
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Requirements captured???
 - marketing - set up meeting
 - analytics - get austin what he needs

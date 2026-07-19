@@ -1,3 +1,14 @@
+# Summary of Needs from Loyalty Engine Team
+ECOMM APIs - review (all are represented above - ==still need to message the group== - [Sotto, Mitchell [CONTRACTOR]: Just sent an email. Here is the AI summary. Action i... | Loyalty 2.0 Discussion | Microsoft Teams](https://teams.microsoft.com/l/message/19:meeting_MDQ3NTUzZWMtMGE5Ni00YzBjLThiZGUtOWUwZTkwN2M5N2Fj@thread.v2/1784223509804?context=%7B%22contextType%22%3A%22chat%22%7D))
+- Get the **timeline for Order History design** delivery from the Loyalty team — pending vs. actual. _(Due Wed July 22)_
+- Provide **timelines for holding benefits from web checkout against the Loyalty Engine** — when it enters dev, plus specs.
+- Define the **loyalty simulation endpoint** (earnings based on current cart): endpoints + timelines for contract and dev deployment. Set up a meeting. Clarify what it returns — Pro Bucks earned? Resulting tier from spend? Or accrual only?
+- Discuss with team and confirm with **Derek & Paul** that we can support the Order History Detail accrual box (pending vs. actual accrual saved on the order).
+- Define what parameters **ECOMM needs to send the rules engine** to evaluate benefit-usage eligibility, and what the call returns (boolean? amount?). Determine whether the sales feed needs an identifier showing the benefit use was approved. _(Loyalty Engine to decide.)_
+- **(ECOMM/Loyalty/CRM) Notification preferences** meeting — meeting needed on what's required from CRM and how to update it (beta vs. full launch). Notes: no notifications to the website; no SMS opt-in from the app for October. Mark Holland wants it for Beta (aware Sydney removed it from the app for Beta) — need to confirm CRM is committed for Beta, and whether it routes through CRS.
+- Hold endpoint timeline
+
+# Raw Notes (helpful)
 **A. BFF Contract**
 
 **1.**AUTH contracts — full picture of authentication/authorization contracts for the BFF: token model, session handling, scopes per service, and what the client is expected to pass.
