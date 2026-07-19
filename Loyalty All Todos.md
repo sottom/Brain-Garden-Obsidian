@@ -7,6 +7,7 @@ What needs done next week, by when?
 ## All
 - Update to new naming (Diamond) in library
 - Get accounting requirements into library - https://flooranddecor.atlassian.net/browse/CENT-867
+- (Tuesday) Membership - make stories, get maria a buddy (jacob out next week), make mock data
 ## CRS
 - Payments apis analysis - https://flooranddecor.atlassian.net/browse/CENT-972
 	- how will someone get enrolled?
@@ -19,7 +20,7 @@ What needs done next week, by when?
 - Users for QA in databases to validate their data needs - https://flooranddecor.atlassian.net/browse/CENT-939
 
 ## Team Conversations
-Monday - 7
+**Timelines for contracts and in-dev-by dates**
 - Evaluate Benefits Usage endpoint
 - 2 - Handling Receipts endpoint
 - **loyalty simulation endpoint** - returns Pro Bucks earned? Resulting tier from spend? Or accrual only?
@@ -27,7 +28,6 @@ Monday - 7
 - Hold Endpoints
 - - 2 - Accounting Requirements
 
-Tuesday
 # Meetings
 ## Payments
 - During normal enrollment for full rollout and also seating for beta, how do we want to create membership representations in the payments system, when a new person is seated or enrolled. Let's talk through that flow.
@@ -41,7 +41,7 @@ Tuesday
 
 
 Who do we need to bring in? What levels?
-Determine what type of resources are needed for project to succeed. (not just how many)
+==Determine what type of resources are needed for project to succeed. (not just how many)==
 
 
 
@@ -64,9 +64,7 @@ ECOMM APIs - review
 - ==**(ECOMM/Loyalty/CRM) Notification preferences** meeting — meeting needed on what's required from CRM and how to update it (beta vs. full launch). Notes: no notifications to the website; no SMS opt-in from the app for October. Mark Holland wants it for Beta (aware Sydney removed it from the app for Beta) — need to confirm CRM is committed for Beta, and whether it routes through CRS.==
 - Hold endpoint timeline
 
-Determine who else is depending on us that may have needs.
 
-Questions about Payments APIs - tomorrow.
 
 App needs from BFF/WIMS
 
