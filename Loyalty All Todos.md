@@ -3,6 +3,7 @@ What needs done next week, by when?
 # TODOs
 ## All
 - Update to new naming (Diamond) in library
+- Get accounting requirements into library - **Accounting Requirements** - need a little bit more clarification - https://flooranddecor.atlassian.net/browse/CENT-867
 ## CRS
 - Payments apis analysis - https://flooranddecor.atlassian.net/browse/CENT-972
 	- how will someone get enrolled?
@@ -14,7 +15,7 @@ What needs done next week, by when?
 ## Membership
 - Users for QA in databases to validate their data needs - https://flooranddecor.atlassian.net/browse/CENT-939
 
-## Conversations
+## Team Conversations
 Monday - 7
 - 2-Handling Receipts
 
@@ -36,12 +37,12 @@ Determine what type of resources are needed for project to succeed. (not just ho
 
 
 
+
 Membership - make stories, get maria a buddy (jacob out next week), make mock data
 
 
 
 
-**Accounting Requirements** - need a little bit more clarification
 
 
 
