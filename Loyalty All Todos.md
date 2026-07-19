@@ -12,7 +12,7 @@ What needs done next week, by when?
 	- loyaltyPushNotificationOptIn
 
 ## Membership
-- Users for QA in databases to validate their data needs
+- Users for QA in databases to validate their data needs - https://flooranddecor.atlassian.net/browse/CENT-939
 
 ## Conversations
 Monday - 7
