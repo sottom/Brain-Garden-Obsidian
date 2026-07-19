@@ -32,6 +32,9 @@ What needs done next week, by when?
 ## Payments
 - During normal enrollment for full rollout and also seating for beta, how do we want to create membership representations in the payments system, when a new person is seated or enrolled. Let's talk through that flow.
 - (Shane owns) Meeting with Karl about sales feed (Shane - Monday) and payments api.
+# Marketing
+Lane/Omar - communication with Marketing (intro meeting for them to understand our designs)
+Clarify marketing requirements and how to fulfill them
 ## Everyone
 - How will beta enrollment go from start to finish? Who owns driving this? Sterba?
 
@@ -66,12 +69,7 @@ ECOMM APIs - review
 
 
 
-App needs from BFF/WIMS
 
-Who will interpret rules at checkout on the Web and In-Store? (local interpretation vs. querying the Loyalty Rules Engine).
-
-Lane/Omar - communication with Marketing (intro meeting for them to understand our designs)
-Clarify marketing requirements and how to fulfill them
 
 
 
