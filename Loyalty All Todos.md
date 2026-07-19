@@ -30,9 +30,7 @@ Tuesday
 
 Who do we need to bring in? What levels?
 
-Austin - get him our data shapes.
 
-Add diagrams to sharepoint or confluence
 Users for QA in databases to validate their data needs
 QAs come up with a process for updating based on changes in repo (follow up with Ravi)
 
