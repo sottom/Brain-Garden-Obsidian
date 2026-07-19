@@ -17,7 +17,8 @@ What needs done next week, by when?
 
 ## Team Conversations
 Monday - 7
-- 2-Handling Receipts
+- 2 - Handling Receipts
+- 2 - Accounting Requirements
 
 Tuesday
 # Meetings
