@@ -30,14 +30,6 @@ Tuesday
 
 Who do we need to bring in? What levels?
 
-
-
-
-
-
-
-
-
 Austin - get him our data shapes.
 
 Add diagrams to sharepoint or confluence
