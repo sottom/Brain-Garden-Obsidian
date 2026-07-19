@@ -15,11 +15,8 @@ What needs done next week, by when?
 - Under preference object - https://flooranddecor.atlassian.net/browse/CENT-937?focusedCommentId=341089
 	- marketingSmsOptIn
 	- loyaltyPushNotificationOptIn
-
 ## BFF & WIMS
 - TSR [Blanton, Jarrod, +2 | Group Chat | Microsoft Teams](https://teams.microsoft.com/l/chat/19:cb1eaf06f9644a3bb9a299e74d02b654@thread.v2/conversations?context=%7B%22contextType%22%3A%22chat%22%7D)
-
-
 ## Membership
 - Users for QA in databases to validate their data needs - https://flooranddecor.atlassian.net/browse/CENT-939
 
@@ -64,13 +61,13 @@ Who do we need to bring in? What levels?
 
 
 
-ECOMM APIs - review 
+ECOMM APIs - review (all are represented above - ==still need to message the group==)
 - Get the **timeline for Order History design** delivery from the Loyalty team — pending vs. actual. _(Due Wed July 22)_
 - Provide **timelines for holding benefits from web checkout against the Loyalty Engine** — when it enters dev, plus specs.
 - Define the **loyalty simulation endpoint** (earnings based on current cart): endpoints + timelines for contract and dev deployment. Set up a meeting. Clarify what it returns — Pro Bucks earned? Resulting tier from spend? Or accrual only?
 - Discuss with team and confirm with **Derek & Paul** that we can support the Order History Detail accrual box (pending vs. actual accrual saved on the order).
 - Define what parameters **ECOMM needs to send the rules engine** to evaluate benefit-usage eligibility, and what the call returns (boolean? amount?). Determine whether the sales feed needs an identifier showing the benefit use was approved. _(Loyalty Engine to decide.)_
-- ==**(ECOMM/Loyalty/CRM) Notification preferences** meeting — meeting needed on what's required from CRM and how to update it (beta vs. full launch). Notes: no notifications to the website; no SMS opt-in from the app for October. Mark Holland wants it for Beta (aware Sydney removed it from the app for Beta) — need to confirm CRM is committed for Beta, and whether it routes through CRS.==
+- **(ECOMM/Loyalty/CRM) Notification preferences** meeting — meeting needed on what's required from CRM and how to update it (beta vs. full launch). Notes: no notifications to the website; no SMS opt-in from the app for October. Mark Holland wants it for Beta (aware Sydney removed it from the app for Beta) — need to confirm CRM is committed for Beta, and whether it routes through CRS.
 - Hold endpoint timeline
 
 
