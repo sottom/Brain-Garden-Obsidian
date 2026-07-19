@@ -41,6 +41,7 @@ What needs done next week, by when?
 - 6 - Order History design - [[Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md#^R3Atgq5u|Order HIstory Accrual Picture]]
 - Hold Endpoints (unique id for interaction) - see [[Pasted image 20260718150453.png]]
 - - 2 - Accounting Requirements
+- Security Decisions Meeting
 - Fraud
 - replay of events on outage
 
@@ -89,7 +90,7 @@ Who do we need to bring in? What levels?
 
 
 
-Add story for systems trust matrix for full rollout - System Trust Matix
+
 authorization (grants for read / write) 
 
 
