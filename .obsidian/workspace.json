@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "3030d6fd00a8cbde",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/F&D Loyalty Stakeholders Diagram.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "F&D Loyalty Stakeholders Diagram"
+            }
+          },
+          {
             "id": "f183f34943135175",
             "type": "leaf",
             "state": {
@@ -103,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "/DevOps res",
+                "query": "/mark holland",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,7 +136,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -245,6 +258,9 @@
   },
   "active": "e5def790108558cd",
   "lastOpenFiles": [
+    "Pasted Image 20260718215352_516.png",
+    "Excalidraw/F&D Loyalty Stakeholders Diagram.md",
+    "Excalidraw/Timelines & Gantt Charts F&D Loyalty.md",
     "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
     "Loyalty All Todos.md",
     "ECOMM Questions F&D Loyalty 7-16-2026.md",
@@ -253,7 +269,6 @@
     "Pasted image 20260718150453.png",
     "Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md",
     "Pasted Image 20260718210946_415.png",
-    "Excalidraw/Timelines & Gantt Charts F&D Loyalty.md",
     "DailyNotes/2026-04-20 (Mon).md",
     "AI SDLC.md",
     "Excalidraw/Drawing 2026-04-16 16.11.49.excalidraw.md",
@@ -271,8 +286,6 @@
     "Decisions to be made.md",
     "Excalidraw/Drawing 2026-06-10 10.48.00.excalidraw.md",
     "Next Steps.md",
-    "F&D Loyalty Tier example - need more of these.md",
-    "Untitled 6.md",
     "Pasted image 20260718172250.png",
     "Pasted image 20260718165758.png",
     "Pasted image 20260718155954.png",
