@@ -77,10 +77,6 @@ Clarify marketing requirements and how to fulfill them (asked - [Loyalty Comms O
 - Lori Murphy - has mockups for pro app.
 
 
-Use AI, build, review code, deploy, solve problems
-==Determine what type of resources are needed for project to succeed. (not just how many)==
-
-
 
 
 # Other
