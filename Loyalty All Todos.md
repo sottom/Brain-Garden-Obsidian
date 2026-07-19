@@ -8,11 +8,12 @@ What needs done next week, by when?
 
 
 # TODO
-## All
+## Mitchell
 - Update to new naming (Diamond) in library
 - Get accounting requirements into library - https://flooranddecor.atlassian.net/browse/CENT-867
 - (Tuesday) Membership - make stories, get maria a buddy (jacob out next week), make mock data
 - Check with Jarrod 7/24 to see if there are any gaps between what app needs and what CRS is providing BFF.
+- Assign Performance testing sign-off to Shane? (tell Keerthi)
 ## CRS
 - Payments apis analysis - https://flooranddecor.atlassian.net/browse/CENT-972
 	- how will someone get enrolled?
@@ -94,8 +95,7 @@ ECOMM APIs - review (all are represented above - ==still need to message the gro
 
 
 
-I'm approver for performance testing...ask if Evan cares who does this. I don't want to.
-![[Pasted image 20260716143958.png]]
+
 
 - Talk to Karl about api contracts 7/17, cars team starts testing those apis 7/17.
 - Timelines for History 
