@@ -20,6 +20,9 @@ What needs done next week, by when?
 - Under preference object - https://flooranddecor.atlassian.net/browse/CENT-937?focusedCommentId=341089
 	- marketingSmsOptIn
 	- loyaltyPushNotificationOptIn
+
+# Comms Orchestrator (Marketing)
+- Talk to Duy about the need for a new event (notifications for the app when something is picked up).
 ## BFF & WIMS
 - TSR [Blanton, Jarrod, +2 | Group Chat | Microsoft Teams](https://teams.microsoft.com/l/chat/19:cb1eaf06f9644a3bb9a299e74d02b654@thread.v2/conversations?context=%7B%22contextType%22%3A%22chat%22%7D)
 ## Membership
@@ -45,6 +48,7 @@ What needs done next week, by when?
 # Marketing
 Lane/Omar - communication with Marketing (intro meeting for them to understand our designs)
 Clarify marketing requirements and how to fulfill them (asked - [Loyalty Comms Orchestrator Dev Team | Group Chat | Microsoft Teams](https://teams.microsoft.com/l/chat/19:75225caeb0b5439584c5e490ab9c47a1@thread.v2/conversations?context=%7B%22contextType%22%3A%22chat%22%7D))
+- Talk to Duy about the need for a new event (notifications for the app when something is picked up).
 # QA
 - Keerthi to set up Performance testing conversation
 ## Everyone
@@ -85,9 +89,8 @@ ECOMM APIs - review (all are represented above - ==still need to message the gro
 
 
 
-Talk to Duy about the need for a new event (notifications for the app when something is picked up).
 
-Need scripts for databases, 
+
 
 
 Loyalty items without much knowledge -- Fraud, replay of events on outage.
