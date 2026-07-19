@@ -89,6 +89,8 @@ Requirements captured???
 - storagebuy
 - register
 - accounting
+- Internal Audit
+- Infrastructure (DevOps)
 
 ![[Pasted image 20260718165758.png]]
 ![[Pasted image 20260718172250.png]]
