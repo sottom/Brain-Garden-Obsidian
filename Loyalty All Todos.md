@@ -13,6 +13,7 @@ What needs done next week, by when?
 - Get accounting requirements into library - https://flooranddecor.atlassian.net/browse/CENT-867
 - (Tuesday) Membership - make stories, get maria a buddy (jacob out next week), make mock data
 - Check with Jarrod 7/24 to see if there are any gaps between what app needs and what CRS is providing BFF.
+- Get clear on correlation ids and why and how we should use them in our program.
 - Assign Performance testing sign-off to Shane? (tell Keerthi)
 - Not until August? - Begin planning out Full Rollout
 	- F&D Admin Controls
