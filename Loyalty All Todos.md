@@ -17,6 +17,7 @@ What needs done next week, by when?
 - Assign Performance testing sign-off to Shane? (tell Keerthi)
 - Not until August? - Begin planning out Full Rollout
 	- F&D Admin Controls
+	- Add story for systems trust matrix for full rollout - System Trust Matix service
 - SNOW ticket for admin account re-activation
 ## CRS
 - Payments apis analysis - https://flooranddecor.atlassian.net/browse/CENT-972
@@ -71,27 +72,6 @@ Clarify marketing requirements and how to fulfill them (asked - [Loyalty Comms O
 
 Who do we need to bring in? What levels?
 ==Determine what type of resources are needed for project to succeed. (not just how many)==
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-authorization (grants for read / write) 
 
 
 # Other
