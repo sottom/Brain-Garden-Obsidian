@@ -12,6 +12,7 @@ What needs done next week, by when?
 - Update to new naming (Diamond) in library
 - Get accounting requirements into library - https://flooranddecor.atlassian.net/browse/CENT-867
 - (Tuesday) Membership - make stories, get maria a buddy (jacob out next week), make mock data
+- Check with Jarrod 7/24 to see if there are any gaps 
 ## CRS
 - Payments apis analysis - https://flooranddecor.atlassian.net/browse/CENT-972
 	- how will someone get enrolled?
@@ -47,7 +48,7 @@ Clarify marketing requirements and how to fulfill them (asked - [Loyalty Comms O
 # QA
 - Keerthi to set up Performance testing conversation
 ## Everyone
-- How will beta enrollment go from start to finish? Who owns driving this? Sterba?
+- How will beta **enrollment** go from start to finish? Who owns driving this? Sterba?
 
 
 
@@ -82,12 +83,6 @@ ECOMM APIs - review (all are represented above - ==still need to message the gro
 
 
 
-Timelines of:
-==Order History Endpoint - timeline== - paul defining what is needed, but Loyalty needs to get them a contract as soon as we can.
-Enrollment - elections timeline
-Membership data
-
-Need mocked data for members to be used for testing (QA does this)?
 
 There are gaps between the app mockups and
 what the loyalty library can do, Jarrod going to tell us after testing.
