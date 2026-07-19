@@ -19,6 +19,7 @@ What needs done next week, by when?
 Monday - 7
 - 2 - Handling Receipts
 - 2 - Accounting Requirements
+- 6 - Order History design
 
 Tuesday
 # Meetings
