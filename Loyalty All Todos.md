@@ -1,6 +1,6 @@
 # Next Actions
 - Schedule meetings for all Team Conversations
-- Reply to ECOMM message with dates and times for ge
+- Reply to ECOMM message with dates and times for getting answers.
 
 # To Confirm
 - ==**(ECOMM/Loyalty/CRM) Notification preferences** meeting — meeting needed on what's required from CRM and how to update it (beta vs. full launch). Notes: no notifications to the website; no SMS opt-in from the app for October. Mark Holland wants it for Beta (aware Sydney removed it from the app for Beta) — need to confirm CRM is committed for Beta, and whether it routes through CRS.==
