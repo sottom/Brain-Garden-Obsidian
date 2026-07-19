@@ -20,6 +20,8 @@ Monday - 7
 - 2 - Handling Receipts
 - 2 - Accounting Requirements
 - 6 - Order History design
+- Hold Endpoints
+- **loyalty simulation endpoint** - returns Pro Bucks earned? Resulting tier from spend? Or accrual only?
 
 Tuesday
 # Meetings
