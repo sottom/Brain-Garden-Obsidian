@@ -34,7 +34,9 @@ What needs done next week, by when?
 - (Shane owns) Meeting with Karl about sales feed (Shane - Monday) and payments api.
 # Marketing
 Lane/Omar - communication with Marketing (intro meeting for them to understand our designs)
-Clarify marketing requirements and how to fulfill them
+Clarify marketing requirements and how to fulfill them (asked - [Loyalty Comms Orchestrator Dev Team | Group Chat | Microsoft Teams](https://teams.microsoft.com/l/chat/19:75225caeb0b5439584c5e490ab9c47a1@thread.v2/conversations?context=%7B%22contextType%22%3A%22chat%22%7D))
+# QA
+- Keerthi to set up Performance testing conversation
 ## Everyone
 - How will beta enrollment go from start to finish? Who owns driving this? Sterba?
 
@@ -67,14 +69,6 @@ ECOMM APIs - review
 - ==**(ECOMM/Loyalty/CRM) Notification preferences** meeting — meeting needed on what's required from CRM and how to update it (beta vs. full launch). Notes: no notifications to the website; no SMS opt-in from the app for October. Mark Holland wants it for Beta (aware Sydney removed it from the app for Beta) — need to confirm CRM is committed for Beta, and whether it routes through CRS.==
 - Hold endpoint timeline
 
-
-
-
-
-
-
-- Performance Testing discussion in hack the loyalty (429)
-- Overview of QA processes on Friday
 
 App notifications needed - (Lane) push notifications that we are planning on sending
 
