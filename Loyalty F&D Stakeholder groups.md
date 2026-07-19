@@ -1,0 +1,11 @@
+Requirements captured???
+- marketing - set up meeting
+- analytics - get austin what he needs
+- app
+- ecomm
+- myproject
+- storagebuy
+- register
+- accounting
+- Internal Audit
+- Infrastructure (DevOps)
