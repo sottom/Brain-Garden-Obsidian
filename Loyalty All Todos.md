@@ -11,6 +11,9 @@ What needs done next week, by when?
 	- marketingSmsOptIn
 	- loyaltyPushNotificationOptIn
 
+## Membership
+- Users for QA in databases to validate their data needs
+
 ## Conversations
 Monday - 7
 - 2-Handling Receipts
@@ -31,7 +34,7 @@ Tuesday
 Who do we need to bring in? What levels?
 
 
-Users for QA in databases to validate their data needs
+
 QAs come up with a process for updating based on changes in repo (follow up with Ravi)
 
 Determine what type of resources are needed for project to succeed. (not just how many)
