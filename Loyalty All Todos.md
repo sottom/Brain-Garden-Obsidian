@@ -14,6 +14,7 @@ What needs done next week, by when?
 - (Tuesday) Membership - make stories, get maria a buddy (jacob out next week), make mock data
 - Check with Jarrod 7/24 to see if there are any gaps between what app needs and what CRS is providing BFF.
 - Assign Performance testing sign-off to Shane? (tell Keerthi)
+- Not until August? - Begin planning out Full Rollout
 ## CRS
 - Payments apis analysis - https://flooranddecor.atlassian.net/browse/CENT-972
 	- how will someone get enrolled?
@@ -95,17 +96,7 @@ ECOMM APIs - review (all are represented above - ==still need to message the gro
 
 
 
-Review requirements against planned functional designs (excel sheet)
-Review Keerthi's document to see if we missed anything in our designs
 
-Begin planning out Full Rollout
-
-
-Make stories
-
-
-Simulate API
-Evaluate if rules can be used api
 ![[Pasted image 20260718150453.png]]
 
 POS
