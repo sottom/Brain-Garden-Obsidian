@@ -1,5 +1,8 @@
 What needs done next week, by when?
 
+# To Confirm
+- ==**(ECOMM/Loyalty/CRM) Notification preferences** meeting — meeting needed on what's required from CRM and how to update it (beta vs. full launch). Notes: no notifications to the website; no SMS opt-in from the app for October. Mark Holland wants it for Beta (aware Sydney removed it from the app for Beta) — need to confirm CRM is committed for Beta, and whether it routes through CRS.==
+
 # TODOs
 ## All
 - Update to new naming (Diamond) in library
@@ -43,7 +46,7 @@ Determine what type of resources are needed for project to succeed. (not just ho
 
 
 
-Membership - make stories, get maria a buddy (jacob out next week), make mock data
+
 
 
 
@@ -58,7 +61,7 @@ ECOMM APIs - review
 - Define the **loyalty simulation endpoint** (earnings based on current cart): endpoints + timelines for contract and dev deployment. Set up a meeting. Clarify what it returns — Pro Bucks earned? Resulting tier from spend? Or accrual only?
 - Discuss with team and confirm with **Derek & Paul** that we can support the Order History Detail accrual box (pending vs. actual accrual saved on the order).
 - Define what parameters **ECOMM needs to send the rules engine** to evaluate benefit-usage eligibility, and what the call returns (boolean? amount?). Determine whether the sales feed needs an identifier showing the benefit use was approved. _(Loyalty Engine to decide.)_
-- **(ECOMM/Loyalty/CRM) Notification preferences** meeting — meeting needed on what's required from CRM and how to update it (beta vs. full launch). Notes: no notifications to the website; no SMS opt-in from the app for October. Mark Holland wants it for Beta (aware Sydney removed it from the app for Beta) — need to confirm CRM is committed for Beta, and whether it routes through CRS.
+- ==**(ECOMM/Loyalty/CRM) Notification preferences** meeting — meeting needed on what's required from CRM and how to update it (beta vs. full launch). Notes: no notifications to the website; no SMS opt-in from the app for October. Mark Holland wants it for Beta (aware Sydney removed it from the app for Beta) — need to confirm CRM is committed for Beta, and whether it routes through CRS.==
 - Hold endpoint timeline
 
 Determine who else is depending on us that may have needs.
