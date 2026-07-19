@@ -36,7 +36,7 @@ What needs done next week, by when?
 - 2 - Handling Receipts endpoint
 - **loyalty simulation endpoint** - returns Pro Bucks earned? Resulting tier from spend? Or accrual only?
 - 6 - Order History design - [[Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md#^R3Atgq5u|Order HIstory Accrual Picture]]
-- Hold Endpoints
+- Hold Endpoints (unique id for interaction) - see [[Pasted image 20260718150453.png]]
 - - 2 - Accounting Requirements
 - Fraud
 - replay of events on outage
@@ -99,8 +99,8 @@ ECOMM APIs - review (all are represented above - ==still need to message the gro
 
 
 
-POS
-![[Pasted image 20260718155838.png]]
+
+
 
 ![[Pasted image 20260718155954.png]]
 
