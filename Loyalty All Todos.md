@@ -15,6 +15,7 @@ What needs done next week, by when?
 - Check with Jarrod 7/24 to see if there are any gaps between what app needs and what CRS is providing BFF.
 - Assign Performance testing sign-off to Shane? (tell Keerthi)
 - Not until August? - Begin planning out Full Rollout
+	- F&D Admin Controls
 - SNOW ticket for admin account re-activation
 ## CRS
 - Payments apis analysis - https://flooranddecor.atlassian.net/browse/CENT-972
