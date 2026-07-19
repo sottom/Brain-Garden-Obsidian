@@ -35,7 +35,7 @@ Who do we need to bring in? What levels?
 
 
 
-Meeting with Karl about sales feed (Shane - Monday) and payments api.
+
 
 Austin - get him our data shapes.
 
