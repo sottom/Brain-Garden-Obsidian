@@ -73,7 +73,7 @@
 ## Marketing
 Lane/Omar - communication with Marketing (intro meeting for them to understand our designs)
 Clarify marketing requirements and how to fulfill them (asked - [Loyalty Comms Orchestrator Dev Team | Group Chat | Microsoft Teams](https://teams.microsoft.com/l/chat/19:75225caeb0b5439584c5e490ab9c47a1@thread.v2/conversations?context=%7B%22contextType%22%3A%22chat%22%7D)) - [PRO Loyalty Lifecycle Touchpoints_v4_10June2026_LIVE.xlsx](https://flooranddecor-my.sharepoint.com/:x:/p/as116009/IQB3Ppnper-IR5Sz2EfjHOryAbScl1e9gGqg6mVw_n2a6B8?e=2TxMeA)
-- Set up placeholder emails 
+- Set up placeholder emails for all of these journeys (TRG creating real ones, Mark's team could help us create fake ones for design/development purposes).
 - Talk to Duy about the need for a new event (notifications for the app when something is picked up).
 # QA
 - Keerthi to set up Performance testing conversation
