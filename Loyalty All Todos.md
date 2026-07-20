@@ -58,6 +58,7 @@
 - POS Sales Feed Gaps
 - Handling Receipts endpoint [[Excalidraw/Multiple Receipts Loyalty F&D.md#^3VedIycz|Receipts Diagram]]
 - Order History design - [[Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md#^R3Atgq5u|Order HIstory Accrual Picture]]
+- ==Salesforce needs (enrollment)==
 - (give these) Hold Endpoints (unique id for interaction) - see [[Pasted image 20260718150453.png]]
 - Review new requirements with Liz and Evan - https://flooranddecor.atlassian.net/jira/dashboards/19407
 - - 2 - Accounting Requirements
