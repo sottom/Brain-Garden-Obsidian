@@ -38,7 +38,7 @@
 ## BFF & WIMS
 - TSR [Blanton, Jarrod, +2 | Group Chat | Microsoft Teams](https://teams.microsoft.com/l/chat/19:cb1eaf06f9644a3bb9a299e74d02b654@thread.v2/conversations?context=%7B%22contextType%22%3A%22chat%22%7D)
 ## Membership
-- Users for QA in databases to validate their data needs - https://flooranddecor.atlassian.net/browse/CENT-939
+- Users for (set of users) QA in databases to validate their data needs - https://flooranddecor.atlassian.net/browse/CENT-939
 
 
 
@@ -48,11 +48,13 @@
 # Team Conversations
 **Timelines for contracts and in-dev-by dates**
 
-- Evaluate Benefits Usage endpoint (unique id for interaction) [[Pasted image 20260718172250.png]]
-- Handling Receipts endpoint [[Excalidraw/Multiple Receipts Loyalty F&D.md#^3VedIycz|Receipts Diagram]]
+- Integrating with new (correct) database, mock data
+- Evaluate Benefits Usage endpoint (unique id for interaction) [[Pasted image 20260718172250.png]] - before wednesday
 - **loyalty simulation endpoint** - returns Pro Bucks earned? Resulting tier from spend? Or accrual only?
+- POS Sales Gaps
+- Handling Receipts endpoint [[Excalidraw/Multiple Receipts Loyalty F&D.md#^3VedIycz|Receipts Diagram]]
 - Order History design - [[Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md#^R3Atgq5u|Order HIstory Accrual Picture]]
-- Hold Endpoints (unique id for interaction) - see [[Pasted image 20260718150453.png]]
+- (give these)Hold Endpoints (unique id for interaction) - see [[Pasted image 20260718150453.png]]
 - Review new requirements with Liz and Evan - https://flooranddecor.atlassian.net/jira/dashboards/19407
 - - 2 - Accounting Requirements
 - Security Decisions Meeting
