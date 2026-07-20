@@ -49,7 +49,10 @@
 # Team Conversations
 **Timelines for contracts and in-dev-by dates**
 
-- Integrating with new (correct) database, mock data (across BFF, CRS, membership & payments) - assign someone to drive this (Jacob McCarthy) - they need a login to the website - linking between all systems (good test data)
+- Integrating with new (correct) database, mock data (across BFF, CRS, membership & payments) - assign someone to drive this (Jacob McCarthy) - they need a login to the website - linking between all systems (good test data) - Jarrod/Paul, CRS, Membership, QA group to help with making data.
+	- Payments apis analysis - https://flooranddecor.atlassian.net/browse/CENT-972
+	- how will someone get enrolled? 
+	- Match data that they already have in Payments.
 - Evaluate Benefits Usage endpoint (unique id for interaction) [[Pasted image 20260718172250.png]] - before wednesday
 - **loyalty simulation endpoint** - returns Pro Bucks earned? Resulting tier from spend? Or accrual only?
 - POS Sales Gaps
