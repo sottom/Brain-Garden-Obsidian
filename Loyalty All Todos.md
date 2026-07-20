@@ -53,7 +53,7 @@
 	- Payments apis analysis - https://flooranddecor.atlassian.net/browse/CENT-972
 	- how will someone get enrolled? 
 	- Match data that they already have in Payments.
-- Evaluate Benefits Usage endpoint (unique id for interaction) [[Pasted image 20260718172250.png]] - before wednesday
+- Evaluate Benefits Usage endpoint (unique id for interaction) [[Pasted image 20260718172250.png]] - before wednesday ideally
 - **loyalty simulation endpoint** - returns Pro Bucks earned? Resulting tier from spend? Or accrual only?
 - POS Sales Gaps
 - Handling Receipts endpoint [[Excalidraw/Multiple Receipts Loyalty F&D.md#^3VedIycz|Receipts Diagram]]
