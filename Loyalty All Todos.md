@@ -49,9 +49,9 @@
 **Timelines for contracts and in-dev-by dates**
 - Review new requirements with Liz and Evan - https://flooranddecor.atlassian.net/jira/dashboards/19407
 - Evaluate Benefits Usage endpoint (unique id for interaction) [[Pasted image 20260718172250.png]]
-- 2 - Handling Receipts endpoint [[Excalidraw/Multiple Receipts Loyalty F&D.md#^3VedIycz|Receipts Diagram]]
+- Handling Receipts endpoint [[Excalidraw/Multiple Receipts Loyalty F&D.md#^3VedIycz|Receipts Diagram]]
 - **loyalty simulation endpoint** - returns Pro Bucks earned? Resulting tier from spend? Or accrual only?
-- 6 - Order History design - [[Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md#^R3Atgq5u|Order HIstory Accrual Picture]]
+- Order History design - [[Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md#^R3Atgq5u|Order HIstory Accrual Picture]]
 - Hold Endpoints (unique id for interaction) - see [[Pasted image 20260718150453.png]]
 - - 2 - Accounting Requirements
 - Security Decisions Meeting
