@@ -47,20 +47,21 @@
 
 
 # Team Conversations
-**Timelines for contracts and in-dev-by dates**
+**Timelines for contracts and in-dev-by dates** July 24
 
 - Integrating with new (correct) database, mock data (across BFF, CRS, membership & payments) - assign someone to drive this (Jacob McCarthy) - they need a login to the website - linking between all systems (good test data) - Jarrod/Paul, CRS, Membership, QA group to help with making data.
 	- Payments apis analysis - https://flooranddecor.atlassian.net/browse/CENT-972
 	- how will someone get enrolled? 
 	- Match data that they already have in Payments.
-- Evaluate Benefits Usage endpoint (unique id for interaction) [[Pasted image 20260718172250.png]] - before wednesday ideally
+- Evaluate Benefits Usage endpoint (unique id for interaction) [[Pasted image 20260718172250.png]] - before Wednesday ideally (MVP)
 - **loyalty simulation endpoint** - returns Pro Bucks earned? Resulting tier from spend? Or accrual only?
-- POS Sales Gaps
+- POS Sales Feed Gaps
 - Handling Receipts endpoint [[Excalidraw/Multiple Receipts Loyalty F&D.md#^3VedIycz|Receipts Diagram]]
 - Order History design - [[Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md#^R3Atgq5u|Order HIstory Accrual Picture]]
-- (give these)Hold Endpoints (unique id for interaction) - see [[Pasted image 20260718150453.png]]
+- (give these) Hold Endpoints (unique id for interaction) - see [[Pasted image 20260718150453.png]]
 - Review new requirements with Liz and Evan - https://flooranddecor.atlassian.net/jira/dashboards/19407
 - - 2 - Accounting Requirements
+
 - Security Decisions Meeting
 - Fraud
 - replay of events on outage
