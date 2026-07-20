@@ -46,6 +46,18 @@
             }
           },
           {
+            "id": "0f96b46f75c9d475",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/F&D Loyalty Stakeholders Diagram.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "F&D Loyalty Stakeholders Diagram"
+            }
+          },
+          {
             "id": "faae90f9bfd2e4e3",
             "type": "leaf",
             "state": {
@@ -72,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -246,10 +258,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "91d737e931f133f3",
+  "active": "0f96b46f75c9d475",
   "lastOpenFiles": [
-    "Pasted image 20260718150453.png",
     "Loyalty All Todos.md",
+    "Pasted image 20260718150453.png",
     "Loyalty F&D Stakeholder groups.md",
     "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
     "ECOMM Questions F&D Loyalty 7-16-2026.md",
