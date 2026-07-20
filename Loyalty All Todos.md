@@ -88,7 +88,7 @@ Clarify marketing requirements and how to fulfill them (asked - [Loyalty Comms O
 
 
 # Notes
-
+- EComm figma - https://www.figma.com/design/YwPtXdDB6Zg3aTZHv51TPh/-UX--Experience-Map--Prototypes--Mockups---Floor-Decor?node-id=42283-172268&p=f
 
 
 
