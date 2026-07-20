@@ -28,7 +28,8 @@
 - Set up fin triangles
 ## CRS
 - Payments apis analysis - https://flooranddecor.atlassian.net/browse/CENT-972
-	- how will someone get enrolled?
+	- how will someone get enrolled? 
+	- Match data that they already have in Payments.
 - Resolve by Membership ID - https://flooranddecor.atlassian.net/browse/CENT-942
 - Under preference object - https://flooranddecor.atlassian.net/browse/CENT-937?focusedCommentId=341089
 	- marketingSmsOptIn
@@ -48,7 +49,7 @@
 # Team Conversations
 **Timelines for contracts and in-dev-by dates**
 
-- Integrating with new (correct) database, mock data
+- Integrating with new (correct) database, mock data (across BFF, CRS, membership & payments) - assign someone to drive this (Jacob McCarthy) - they need a login to the website - linking between all systems (good test data)
 - Evaluate Benefits Usage endpoint (unique id for interaction) [[Pasted image 20260718172250.png]] - before wednesday
 - **loyalty simulation endpoint** - returns Pro Bucks earned? Resulting tier from spend? Or accrual only?
 - POS Sales Gaps
@@ -67,11 +68,12 @@
 
 # Meetings
 ## Payments
-- During normal enrollment for full rollout and also seating for beta, how do we want to create membership representations in the payments system, when a new person is seated or enrolled. Let's talk through that flow.
+- During normal enrollment for full rollout and also seeding for beta, how do we want to create membership representations in the payments system, when a new person is seeded or enrolled. Let's talk through that flow.
 - (Shane owns) Meeting with Karl about sales feed (Shane - Monday) and payments api.
 ## Marketing
 Lane/Omar - communication with Marketing (intro meeting for them to understand our designs)
 Clarify marketing requirements and how to fulfill them (asked - [Loyalty Comms Orchestrator Dev Team | Group Chat | Microsoft Teams](https://teams.microsoft.com/l/chat/19:75225caeb0b5439584c5e490ab9c47a1@thread.v2/conversations?context=%7B%22contextType%22%3A%22chat%22%7D)) - [PRO Loyalty Lifecycle Touchpoints_v4_10June2026_LIVE.xlsx](https://flooranddecor-my.sharepoint.com/:x:/p/as116009/IQB3Ppnper-IR5Sz2EfjHOryAbScl1e9gGqg6mVw_n2a6B8?e=2TxMeA)
+- Set up placeholder emails 
 - Talk to Duy about the need for a new event (notifications for the app when something is picked up).
 # QA
 - Keerthi to set up Performance testing conversation
