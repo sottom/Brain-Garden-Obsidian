@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "9fa589e2ed985db0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-07-21 15.25.36.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-07-21 15.25.36.excalidraw"
+            }
+          },
+          {
             "id": "f183f34943135175",
             "type": "leaf",
             "state": {
@@ -97,7 +109,8 @@
               "title": "ECOMM Questions F&D Loyalty 7-16-2026"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -270,10 +283,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e5def790108558cd",
+  "active": "9fa589e2ed985db0",
   "lastOpenFiles": [
-    "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
+    "Pasted Image 20260721152548_569.png",
     "Excalidraw/Timelines & Gantt Charts F&D Loyalty.md",
+    "Excalidraw/Drawing 2026-07-21 15.25.36.excalidraw.md",
+    "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
     "Excalidraw/Loyalty F&D Azure Environments & Kubernetes notes.md",
     "Loyalty All Todos.md",
     "F&D Sales Feed Example.md",
@@ -299,8 +314,6 @@
     "Loyalty Pro App 2.0.md",
     "POS flow.md",
     "Stories.md",
-    "Untitled 5.md",
-    "Decisions to be made.md",
     "Pasted image 20260718172250.png",
     "Pasted image 20260718165758.png",
     "Pasted image 20260718155954.png",
