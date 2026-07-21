@@ -49,12 +49,14 @@
             "id": "2e0b4a5d3a674047",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Multiple Receipts Loyalty F&D.md"
+                "file": "F&D Sales Feed Example.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Multiple Receipts Loyalty F&D"
+              "icon": "lucide-file",
+              "title": "F&D Sales Feed Example"
             }
           },
           {
@@ -272,6 +274,7 @@
   },
   "active": "2e0b4a5d3a674047",
   "lastOpenFiles": [
+    "Excalidraw/Multiple Receipts Loyalty F&D.md",
     "Loyalty All Todos.md",
     "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
     "Excalidraw/Timelines & Gantt Charts F&D Loyalty.md",
