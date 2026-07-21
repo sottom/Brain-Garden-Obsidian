@@ -66,6 +66,7 @@
 - Security Decisions Meeting
 - Fraud - receipt (3 tries per day)
 - replay of events on outage
+- "Suspended" language instead of DeActivated
 
 
 
