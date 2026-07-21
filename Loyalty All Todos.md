@@ -64,7 +64,7 @@
 - - 2 - Accounting Requirements
 
 - Security Decisions Meeting
-- Fraud
+- Fraud - receipt (3 tries per day)
 - replay of events on outage
 
 
