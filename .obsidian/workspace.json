@@ -109,8 +109,7 @@
               "title": "ECOMM Questions F&D Loyalty 7-16-2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -283,11 +282,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9fa589e2ed985db0",
+  "active": "e5def790108558cd",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-07-21 15.25.36.excalidraw.md",
     "Pasted Image 20260721155916_201.png",
     "Excalidraw/Timelines & Gantt Charts F&D Loyalty.md",
-    "Excalidraw/Drawing 2026-07-21 15.25.36.excalidraw.md",
     "Pasted Image 20260721155505_134.png",
     "Pasted Image 20260721155015_834.png",
     "Pasted Image 20260721152548_569.png",
@@ -320,7 +319,6 @@
     "Pasted image 20260718172250.png",
     "Pasted image 20260718165758.png",
     "Pasted image 20260718155954.png",
-    "Pasted image 20260718155838.png",
     "git_push_log.log.tmp",
     "git_push_log.log",
     "git_auto_push.sh",
