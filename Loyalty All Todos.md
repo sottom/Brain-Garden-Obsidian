@@ -43,6 +43,8 @@
 
 
 
+Beta Invite (how to get that information)
+
 
 
 
