@@ -100,3 +100,8 @@ Clarify marketing requirements and how to fulfill them (asked - [Loyalty Comms O
 
 # Other
 - Look at EF Expectations for teammates
+
+
+**Bid Room Order Handling:** Evan clarified that for loyalty members with qualifying bid room orders over $10,000, free delivery will be handled manually via price overrides in the system, rather than being systemically enforced, to avoid complexity in flagging such transactions.
+**Override Reason Codes:** Sydney and Evan discussed the use of different override reason codes for bid room orders, ensuring that free delivery for these orders does not decrement from the total free deliveries available to loyalty members.
+**Technical Implementation:** Evan and Marty confirmed that the business rules engine will determine eligibility for free shipping, with the POS system passing the cart and receiving adjusted shipment amounts via API, and ==Karl noted the need for further design discussion.==
