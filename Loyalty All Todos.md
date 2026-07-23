@@ -58,8 +58,8 @@ Beta Invite (how to get that information)
 - ~~Evaluate Benefits Usage endpoint (unique id for interaction) [[Pasted image 20260718172250.png]] - before Wednesday ideally (MVP)~~
 - ~~**loyalty simulation endpoint** - returns Pro Bucks earned? Resulting tier from spend? Or accrual only?~~
 - POS Sales Feed Gaps
-- Handling Receipts endpoint [[Excalidraw/Multiple Receipts Loyalty F&D.md#^3VedIycz|Receipts Diagram]]
-- (give these) Hold Endpoints (unique id for interaction) - see [[Pasted image 20260718150453.png]]
+- ~~Handling Receipts endpoint [[Excalidraw/Multiple Receipts Loyalty F&D.md#^3VedIycz|Receipts Diagram]]~~
+- ~~(give these) Hold Endpoints (unique id for interaction) - see [[Pasted image 20260718150453.png]]~~
 - Order History design - [[Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md#^R3Atgq5u|Order HIstory Accrual Picture]] (==loyalty history==)
 - ==Salesforce needs (enrollment)==
 
