@@ -168,7 +168,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "/devops res",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
