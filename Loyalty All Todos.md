@@ -108,4 +108,5 @@ Clarify marketing requirements and how to fulfill them (asked - [Loyalty Comms O
 
 
 
-Give receipt upload spec to Insha and Ramsey, do a review of endpoint.
+- Give receipt upload spec to Insha and Ramsey, do a review of endpoint.
+- Look through Nova tickets and add notes on them.
