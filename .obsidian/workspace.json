@@ -161,7 +161,8 @@
               "title": "ECOMM Questions F&D Loyalty 7-16-2026"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -334,8 +335,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e5def790108558cd",
+  "active": "f183f34943135175",
   "lastOpenFiles": [
+    "Excalidraw/Timelines & Gantt Charts F&D Loyalty.md",
     "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
     "Loyalty All Todos.md",
     "Pasted image 20260724150210.png",
@@ -346,7 +348,6 @@
     "Pasted image 20260724133819.png",
     "Pasted image 20260724133631.png",
     "Excalidraw/Drawing 2026-07-21 15.25.36.excalidraw.md",
-    "Excalidraw/Timelines & Gantt Charts F&D Loyalty.md",
     "Pasted Image 20260724093051_404.png",
     "Eleri Floyd.md",
     "F&D Sales Feed Example.md",
