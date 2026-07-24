@@ -70,6 +70,18 @@
             }
           },
           {
+            "id": "b188573fb04fbdc4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty"
+            }
+          },
+          {
             "id": "7a205aa51dff6b08",
             "type": "leaf",
             "state": {
@@ -148,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -321,14 +333,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f183f34943135175",
+  "active": "b188573fb04fbdc4",
   "lastOpenFiles": [
+    "Loyalty All Todos.md",
+    "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
     "Excalidraw/Drawing 2026-07-24 08.47.02.excalidraw.md",
     "Excalidraw/Timelines & Gantt Charts F&D Loyalty.md",
-    "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
     "Pasted Image 20260724093051_404.png",
     "Excalidraw/Drawing 2026-07-21 15.25.36.excalidraw.md",
-    "Loyalty All Todos.md",
     "Eleri Floyd.md",
     "F&D Sales Feed Example.md",
     "Excalidraw/Multiple Receipts Loyalty F&D.md",
