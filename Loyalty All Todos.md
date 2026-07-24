@@ -62,6 +62,8 @@ Beta Invite (how to get that information)
 - ~~(give these) Hold Endpoints (unique id for interaction) - see [[Pasted image 20260718150453.png]]~~
 - Order History design - [[Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md#^R3Atgq5u|Order HIstory Accrual Picture]] (==loyalty history==)
 - ==Salesforce needs (enrollment)==
+- ![[Pasted image 20260724133631.png]]
+- ![[Pasted image 20260724133819.png]]
 
 - Review new requirements with Liz and Evan - https://flooranddecor.atlassian.net/jira/dashboards/19407
 - - 2 - Accounting Requirements
