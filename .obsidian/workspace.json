@@ -47,12 +47,14 @@
             "id": "884c84ffbd74a9e9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Loyalty F&D Azure Environments & Kubernetes notes.md"
+                "file": "Jacob McCarthy.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Loyalty F&D Azure Environments & Kubernetes notes"
+              "icon": "lucide-file",
+              "title": "Jacob McCarthy"
             }
           },
           {
@@ -335,6 +337,7 @@
   },
   "active": "884c84ffbd74a9e9",
   "lastOpenFiles": [
+    "Excalidraw/Loyalty F&D Azure Environments & Kubernetes notes.md",
     "Excalidraw/Drawing 2026-07-24 08.47.02.excalidraw.md",
     "Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md",
     "Loyalty All Todos.md",
@@ -351,7 +354,6 @@
     "Pasted Image 20260721155505_134.png",
     "Pasted Image 20260721155015_834.png",
     "Pasted Image 20260721152548_569.png",
-    "Excalidraw/Loyalty F&D Azure Environments & Kubernetes notes.md",
     "Excalidraw/F&D Loyalty Stakeholders Diagram.md",
     "Pasted image 20260718150453.png",
     "Loyalty F&D Stakeholder groups.md",
