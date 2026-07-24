@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -335,8 +335,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "884c84ffbd74a9e9",
+  "active": "91d737e931f133f3",
   "lastOpenFiles": [
+    "Pasted image 20260724150210.png",
+    "Jacob McCarthy.md",
     "Excalidraw/Loyalty F&D Azure Environments & Kubernetes notes.md",
     "Excalidraw/Drawing 2026-07-24 08.47.02.excalidraw.md",
     "Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md",
@@ -371,7 +373,6 @@
     "無題のファイル 4.md",
     "無題のファイル 1.md",
     "Untitled 4.md",
-    "Loyalty Pro App 2.0.md",
     "git_push_log.log.tmp",
     "git_push_log.log",
     "git_auto_push.sh",

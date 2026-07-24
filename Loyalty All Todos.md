@@ -64,6 +64,7 @@ Beta Invite (how to get that information)
 - ==Salesforce needs (enrollment)==
 - ![[Pasted image 20260724133631.png]]
 - ![[Pasted image 20260724133819.png]]
+- Very nice to have (not required) - ![[Pasted image 20260724150210.png]]
 
 - Review new requirements with Liz and Evan - https://flooranddecor.atlassian.net/jira/dashboards/19407
 - - 2 - Accounting Requirements
