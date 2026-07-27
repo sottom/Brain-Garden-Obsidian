@@ -117,6 +117,6 @@ Clarify marketing requirements and how to fulfill them (asked - [Loyalty Comms O
 - Feature Flags (FRO)
 - Security (API keys?)
 - Observability
-- - [ ] **Rollback plan** — since PPR runs in parallel, define how a beta market falls back to PPR-only cleanly. _(PM + this_library)_
-- - A change freeze across participating workstreams around the window, and a launch-day sequencing 
-  runbook (order of operations, routing/APIM cutover, who does what when).
+- - ==For other systems too?== **Rollback plan** — since PPR runs in parallel, define how a beta market falls back to PPR-only cleanly. _(PM + this_library)_
+- - A ==change freeze== across participating workstreams around the window, and a ==launch-day sequencing runbook== (order of operations, routing/APIM cutover, who does what when).
+- ==War room== week of deployment.
