@@ -112,4 +112,11 @@ Clarify marketing requirements and how to fulfill them (asked - [Loyalty Comms O
 
 
 - Give receipt upload spec to Insha and Ramsey, do a review of endpoint.
-- Look through Nova tickets and add notes on them.
+
+# Cutover
+- Feature Flags
+- Security (API keys?)
+- Observability
+- - [ ] **Rollback plan** — since PPR runs in parallel, define how a beta market falls back to PPR-only cleanly. _(PM + this_library)_
+- - [ ] **Support playbook + on-call + escalation** for beta (OPS-BETA support playbook stub). _(this_library + Ops)_
+- - [ ] **Reconciliation harness** — daily automated check that loyalty ledger ↔ Payments ↔ Oracle agree. _(this_library + WS 9)_
