@@ -118,5 +118,5 @@ Clarify marketing requirements and how to fulfill them (asked - [Loyalty Comms O
 - Security (API keys?)
 - Observability
 - - [ ] **Rollback plan** — since PPR runs in parallel, define how a beta market falls back to PPR-only cleanly. _(PM + this_library)_
-- - [ ] **Support playbook + on-call + escalation** for beta (OPS-BETA support playbook stub). _(this_library + Ops)_
-- - [ ] **Reconciliation harness** — daily automated check that loyalty ledger ↔ Payments ↔ Oracle agree. _(this_library + WS 9)_
+- - A change freeze across participating workstreams around the window, and a launch-day sequencing 
+  runbook (order of operations, routing/APIM cutover, who does what when).
