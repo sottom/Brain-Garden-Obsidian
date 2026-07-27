@@ -114,7 +114,7 @@ Clarify marketing requirements and how to fulfill them (asked - [Loyalty Comms O
 - Give receipt upload spec to Insha and Ramsey, do a review of endpoint.
 
 # Cutover
-- Feature Flags
+- Feature Flags (FRO)
 - Security (API keys?)
 - Observability
 - - [ ] **Rollback plan** — since PPR runs in parallel, define how a beta market falls back to PPR-only cleanly. _(PM + this_library)_
