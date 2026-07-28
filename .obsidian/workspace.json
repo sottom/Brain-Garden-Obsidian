@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -336,8 +336,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "91d737e931f133f3",
+  "active": "f183f34943135175",
   "lastOpenFiles": [
+    "Loyalty All Todos.md",
     "Pasted image 20260728120558.png",
     "Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md",
     "Excalidraw/Timelines & Gantt Charts F&D Loyalty.md",
@@ -345,7 +346,6 @@
     "Excalidraw/POS Flows & Systems Needed Old F&D Loyalty.md",
     "Excalidraw/Loyalty F&D Azure Environments & Kubernetes notes.md",
     "Jacob McCarthy.md",
-    "Loyalty All Todos.md",
     "Excalidraw/Drawing 2026-07-21 15.25.36.excalidraw.md",
     "Pasted image 20260724150210.png",
     "Excalidraw/Drawing 2026-07-24 08.47.02.excalidraw.md",
@@ -363,7 +363,6 @@
     "Pasted image 20260718150453.png",
     "Loyalty F&D Stakeholder groups.md",
     "ECOMM Questions F&D Loyalty 7-16-2026.md",
-    "Pasted Image 20260718215352_516.png",
     "Loyalty Marketing Notifications to the app.md",
     "DailyNotes/2026-04-20 (Mon).md",
     "AI SDLC.md",
