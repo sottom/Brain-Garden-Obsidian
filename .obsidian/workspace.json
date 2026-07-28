@@ -61,12 +61,14 @@
             "id": "91d737e931f133f3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md"
+                "file": "Loyalty All Todos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty"
+              "icon": "lucide-file",
+              "title": "Loyalty All Todos"
             }
           },
           {
@@ -336,12 +338,13 @@
   },
   "active": "91d737e931f133f3",
   "lastOpenFiles": [
+    "Pasted image 20260728120558.png",
+    "Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md",
     "Excalidraw/Timelines & Gantt Charts F&D Loyalty.md",
     "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
     "Excalidraw/POS Flows & Systems Needed Old F&D Loyalty.md",
     "Excalidraw/Loyalty F&D Azure Environments & Kubernetes notes.md",
     "Jacob McCarthy.md",
-    "Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md",
     "Loyalty All Todos.md",
     "Excalidraw/Drawing 2026-07-21 15.25.36.excalidraw.md",
     "Pasted image 20260724150210.png",
@@ -371,7 +374,6 @@
     "無題のファイル 3.md",
     "無題のファイル 4.md",
     "無題のファイル 1.md",
-    "Untitled 4.md",
     "git_push_log.log.tmp",
     "git_push_log.log",
     "git_auto_push.sh",
