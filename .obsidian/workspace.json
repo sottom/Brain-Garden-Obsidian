@@ -11,12 +11,14 @@
             "id": "e5def790108558cd",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Timelines & Gantt Charts F&D Loyalty.md"
+                "file": "Loyalty F&D Stakeholder groups.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Timelines & Gantt Charts F&D Loyalty"
+              "icon": "lucide-file",
+              "title": "Loyalty F&D Stakeholder groups"
             }
           },
           {
@@ -337,11 +339,11 @@
   },
   "active": "e5def790108558cd",
   "lastOpenFiles": [
+    "Excalidraw/Timelines & Gantt Charts F&D Loyalty.md",
     "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
     "Loyalty All Todos.md",
     "Pasted image 20260728120558.png",
     "Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md",
-    "Excalidraw/Timelines & Gantt Charts F&D Loyalty.md",
     "Excalidraw/POS Flows & Systems Needed Old F&D Loyalty.md",
     "Excalidraw/Loyalty F&D Azure Environments & Kubernetes notes.md",
     "Jacob McCarthy.md",
