@@ -84,6 +84,18 @@
             }
           },
           {
+            "id": "5f2c9c66acef185c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty"
+            }
+          },
+          {
             "id": "a419beb68dc83a3e",
             "type": "leaf",
             "state": {
@@ -186,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -360,10 +372,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7376e234c86d1870",
+  "active": "5f2c9c66acef185c",
   "lastOpenFiles": [
-    "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
+    "Loyalty All Todos.md",
     "Excalidraw/Drawing 2026-07-29 07.33.20.excalidraw.md",
+    "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
     "Pasted Image 20260729100551_355.png",
     "Excalidraw/Loyalty F&D Azure Environments & Kubernetes notes.md",
     "Excalidraw/Timelines & Gantt Charts F&D Loyalty.md",
@@ -371,7 +384,6 @@
     "Pasted Image 20260729092005_874.png",
     "Pasted Image 20260729074037_285.png",
     "Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md",
-    "Loyalty All Todos.md",
     "Pasted Image 20260729073447_111.png",
     "Pasted Image 20260729073344_492.png",
     "Pasted Image 20260729073322_019.png",
