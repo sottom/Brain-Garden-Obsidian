@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "7376e234c86d1870",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-07-29 07.33.20.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-07-29 07.33.20.excalidraw"
+            }
+          },
+          {
             "id": "9fa589e2ed985db0",
             "type": "leaf",
             "state": {
@@ -161,7 +173,8 @@
               "title": "ECOMM Questions F&D Loyalty 7-16-2026"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -335,10 +348,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e5def790108558cd",
+  "active": "7376e234c86d1870",
   "lastOpenFiles": [
-    "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
+    "Pasted Image 20260729073447_111.png",
+    "Pasted Image 20260729073344_492.png",
+    "Pasted Image 20260729073322_019.png",
     "Excalidraw/Timelines & Gantt Charts F&D Loyalty.md",
+    "Excalidraw/Drawing 2026-07-29 07.33.20.excalidraw.md",
+    "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
     "Loyalty F&D Stakeholder groups.md",
     "Loyalty All Todos.md",
     "Pasted image 20260728120558.png",
@@ -358,9 +375,7 @@
     "Pasted Image 20260721155916_201.png",
     "Pasted Image 20260721155505_134.png",
     "Pasted Image 20260721155015_834.png",
-    "Pasted Image 20260721152548_569.png",
     "Excalidraw/F&D Loyalty Stakeholders Diagram.md",
-    "Pasted image 20260718150453.png",
     "ECOMM Questions F&D Loyalty 7-16-2026.md",
     "Loyalty Marketing Notifications to the app.md",
     "DailyNotes/2026-04-20 (Mon).md",
@@ -371,7 +386,6 @@
     "Floor038 Loyalty/Floor038 Loyalty General Notes on People at Beginning.md",
     "無題のファイル 3.md",
     "無題のファイル 4.md",
-    "無題のファイル 1.md",
     "git_push_log.log.tmp",
     "git_push_log.log",
     "git_auto_push.sh",
