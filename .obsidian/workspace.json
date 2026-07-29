@@ -222,7 +222,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -396,12 +396,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9fa589e2ed985db0",
+  "active": "f183f34943135175",
   "lastOpenFiles": [
+    "Excalidraw/Loyalty F&D Azure Environments & Kubernetes notes.md",
+    "Excalidraw/Drawing 2026-07-29 07.33.20.excalidraw.md",
     "Excalidraw/Multiple Receipts Loyalty F&D.md",
     "Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md",
-    "Excalidraw/Drawing 2026-07-29 07.33.20.excalidraw.md",
-    "Excalidraw/Loyalty F&D Azure Environments & Kubernetes notes.md",
     "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
     "Loyalty All Todos.md",
     "Pasted Image 20260729100551_355.png",
