@@ -60,9 +60,9 @@ Beta Invite (how to get that information)
 - ~~POS Sales Feed Gaps~~
 - ~~Handling Receipts endpoint [[Excalidraw/Multiple Receipts Loyalty F&D.md#^3VedIycz|Receipts Diagram]]~~
 - ~~(give these) Hold Endpoints (unique id for interaction) - see [[Pasted image 20260718150453.png]]~~
-- Order History design - [[Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md#^R3Atgq5u|Order HIstory Accrual Picture]] (==loyalty history==)
+- ~~Order History design - [[Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md#^R3Atgq5u|Order HIstory Accrual Picture]] (==loyalty history==)~~
 - ==Salesforce needs (enrollment)==
-- Benefit History 
+- ~~Benefit History ~~
 	- ![[Pasted image 20260728120558.png]]
 
 
@@ -70,8 +70,9 @@ Beta Invite (how to get that information)
 - - 2 - Accounting Requirements
 
 - Security Decisions Meeting
-- Fraud - receipt (3 tries per day)
-- replay of events on outage
+- ==Fraud - receipt (3 tries per day)==
+- ==replay of events on outage==
+- ==Seeding / Beta enrollment==
 - "Suspended" language instead of DeActivated
 
 
