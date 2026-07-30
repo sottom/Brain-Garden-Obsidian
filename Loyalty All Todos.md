@@ -74,6 +74,7 @@ Beta Invite (how to get that information)
 - ==Fraud - receipt (3 tries per day)==
 - ==replay of events on outage==
 - ==Seeding / Beta enrollment==
+	- Talk to ECOMM and others about PPR shutoff Jan 31
 - ==End of year batch scheduling==
 - Expiration
 - "Suspended" language instead of DeActivated
