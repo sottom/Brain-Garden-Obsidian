@@ -108,6 +108,18 @@
             }
           },
           {
+            "id": "fabe550299694aed",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-07-30 14.46.37.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-07-30 14.46.37.excalidraw"
+            }
+          },
+          {
             "id": "9afc6a22b9ea461f",
             "type": "leaf",
             "state": {
@@ -234,7 +246,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -408,12 +420,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "91d737e931f133f3",
+  "active": "fabe550299694aed",
   "lastOpenFiles": [
+    "Loyalty All Todos.md",
+    "Excalidraw/Drawing 2026-07-30 14.46.37.excalidraw.md",
     "Excalidraw/Drawing 2026-07-30 10.41.11.excalidraw.md",
     "Excalidraw/Timelines & Gantt Charts F&D Loyalty.md",
     "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
-    "Loyalty All Todos.md",
     "Excalidraw/Drawing 2026-07-29 07.33.20.excalidraw.md",
     "Excalidraw/Loyalty F&D Azure Environments & Kubernetes notes.md",
     "Excalidraw/Multiple Receipts Loyalty F&D.md",
@@ -445,7 +458,6 @@
     "Kwame Sarpong.md",
     "Floor038 Loyalty/Floor038 Loyalty General Notes on People at Beginning.md",
     "無題のファイル 3.md",
-    "無題のファイル 4.md",
     "git_push_log.log.tmp",
     "git_push_log.log",
     "git_auto_push.sh",
