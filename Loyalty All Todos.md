@@ -71,7 +71,7 @@ Beta Invite (how to get that information)
 - - 2 - Accounting Requirements
 
 - Security Decisions Meeting
-- ==Fraud - receipt (3 tries per day)==
+- ==Fraud - receipt (3 tries per day)== ==August 5==
 - ==replay of events on outage==
 - ==Seeding / Beta enrollment==
 	- Talk to ECOMM and others about PPR shutoff Jan 31
