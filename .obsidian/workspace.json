@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "3f17520e7dc09230",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-08-03 16.07.43.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-08-03 16.07.43.excalidraw"
+            }
+          },
+          {
             "id": "884c84ffbd74a9e9",
             "type": "leaf",
             "state": {
@@ -272,7 +284,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -446,10 +458,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f183f34943135175",
+  "active": "3f17520e7dc09230",
   "lastOpenFiles": [
-    "Excalidraw/Timelines & Gantt Charts F&D Loyalty.md",
     "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
+    "Excalidraw/Drawing 2026-08-03 16.07.43.excalidraw.md",
+    "Excalidraw/Timelines & Gantt Charts F&D Loyalty.md",
     "Excalidraw/Drawing 2026-07-30 14.46.37.excalidraw.md",
     "Loyalty F&D Stakeholder groups.md",
     "Loyalty All Todos.md",
@@ -483,7 +496,6 @@
     "Excalidraw/Drawing 2026-04-16 16.11.49.excalidraw.md",
     "Excalidraw/Familly History Card Game.md",
     "Kwame Sarpong.md",
-    "Floor038 Loyalty/Floor038 Loyalty General Notes on People at Beginning.md",
     "git_push_log.log.tmp",
     "git_push_log.log",
     "git_auto_push.sh",
