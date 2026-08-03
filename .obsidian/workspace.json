@@ -271,7 +271,8 @@
               "title": "ECOMM Questions F&D Loyalty 7-16-2026"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -445,10 +446,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e5def790108558cd",
+  "active": "f183f34943135175",
   "lastOpenFiles": [
-    "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
     "Excalidraw/Timelines & Gantt Charts F&D Loyalty.md",
+    "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
     "Excalidraw/Drawing 2026-07-30 14.46.37.excalidraw.md",
     "Loyalty F&D Stakeholder groups.md",
     "Loyalty All Todos.md",
