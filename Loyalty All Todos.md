@@ -17,20 +17,13 @@
 - Not until August? - Begin planning out Full Rollout
 	- F&D Admin Controls
 	- Add story for systems trust matrix for full rollout - System Trust Matix service
-- SNOW ticket for admin account re-activation
 - Set up fin triangles
 ## CRS
-- Payments apis analysis - https://flooranddecor.atlassian.net/browse/CENT-972
-	- how will someone get enrolled? 
-	- Match data that they already have in Payments.
-- Resolve by Membership ID - https://flooranddecor.atlassian.net/browse/CENT-942
-- Under preference object - https://flooranddecor.atlassian.net/browse/CENT-937?focusedCommentId=341089
-	- marketingSmsOptIn
-	- loyaltyPushNotificationOptIn
+
 ## Comms Orchestrator (Marketing)
-- Talk to Duy about the need for a new event (notifications for the app when something is picked up).
+
 ## BFF & WIMS
-- TSR [Blanton, Jarrod, +2 | Group Chat | Microsoft Teams](https://teams.microsoft.com/l/chat/19:cb1eaf06f9644a3bb9a299e74d02b654@thread.v2/conversations?context=%7B%22contextType%22%3A%22chat%22%7D)
+
 ## Membership
 - Users for (set of users) QA in databases to validate their data needs - https://flooranddecor.atlassian.net/browse/CENT-939
 
