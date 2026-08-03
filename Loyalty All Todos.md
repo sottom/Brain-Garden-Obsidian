@@ -1,5 +1,8 @@
 # Next Actions
 - Talk to Evan about Pizza Party (schedule for next Tuesday???)
+- Sales from POS (how to connect to that - example)
+	- Sales manually attached from Salesforce (how to connect to that - example)
+	- Lookup of PPR members and if they are CAM or not (and active or not).
 
 
 # To Confirm
