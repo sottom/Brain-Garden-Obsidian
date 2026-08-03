@@ -3,7 +3,7 @@
 - Sales from POS (how to connect to that - example)
 	- Sales manually attached from Salesforce (how to connect to that - example)
 	- Lookup of PPR members and if they are CAM or not (and active or not).
-	- Customer number of sale is not changed in POS when it is deduped in Salesforce and all the data is moved to the good record.
+	- Customer number of sale is not changed in POS when it is deduped in Salesforce and all the data is moved to the clean rea
 
 
 # To Confirm
