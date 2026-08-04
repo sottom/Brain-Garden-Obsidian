@@ -4,6 +4,8 @@
 	- Sales manually attached from Salesforce (how to connect to that - example)
 	- Lookup of PPR members and if they are CAM or not (and active or not).
 	- Customer number of sale is not changed in POS when it is deduped in Salesforce and all the data is moved to the clean rea
+- - **Activate cascade** — does activateMembership alone trigger the CRM enrollment-date write (Q270) + tier lookback/seeding (WS-6 DEP-3) so the Hub is fully populated immediately after Join? (WS-6 treats a partial first Hub landing as a critical defect.)
+    1. Currently, we don’t have a synchronous way to update the data when a membership is activated ([https://bitbucket.org/flooranddecor/loyalty-2.0-library/src/eee04b4da5d69befc91f0d326b1ae139b4c26401/domain-model/api-entities/openapi/loyalty-membership-service-api.openapi.yaml#lines-188:191](https://bitbucket.org/flooranddecor/loyalty-2.0-library/src/eee04b4da5d69befc91f0d326b1ae139b4c26401/domain-model/api-entities/openapi/loyalty-membership-service-api.openapi.yaml#lines-188:191)). I imagine you will need us to run/trigger necessary flows to update their YTD accrual at this point. If that is the case, we will need to update this endpoint (cc: @Hodgson, Evan, @Davenport, Shane, @Oconnor, Matthew, @Romero, Maria [CONTRACTOR]). We will need to make this update in our documentation.
 
 
 # To Confirm
