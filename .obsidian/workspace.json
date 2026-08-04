@@ -310,7 +310,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -383,7 +383,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Normal Tier Evaluation (not Beta) Loyalty F&D.m4a",
+                "file": "Excalidraw/Drawing 2026-07-30 14.46.37.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -393,7 +393,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Normal Tier Evaluation (not Beta) Loyalty F&D"
+              "title": "Backlinks for Drawing 2026-07-30 14.46.37.excalidraw"
             }
           },
           {
@@ -482,10 +482,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fd4990967245c4b2",
+  "active": "fabe550299694aed",
   "lastOpenFiles": [
-    "Untitled.md",
     "Normal Tier Evaluation (not Beta) Loyalty F&D.m4a",
+    "Untitled.md",
     "Excalidraw/Drawing 2026-07-30 14.46.37.excalidraw.md",
     "Beta Tier Scenario Loyalty F&D.m4a",
     "Recording 20260804073112.m4a",
