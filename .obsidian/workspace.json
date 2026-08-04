@@ -473,10 +473,11 @@
   "active": "fabe550299694aed",
   "lastOpenFiles": [
     "Untitled.md",
+    "Beta Tier Scenario Loyalty F&D.m4a",
+    "Excalidraw/Drawing 2026-07-30 14.46.37.excalidraw.md",
     "Recording 20260804073112.m4a",
     "Recording 20260804073223.m4a",
     "Recording 20260804073157.m4a",
-    "Excalidraw/Drawing 2026-07-30 14.46.37.excalidraw.md",
     "Loyalty All Todos.md",
     "Loyalty F&D Stakeholder groups.md",
     "Excalidraw/Timelines & Gantt Charts F&D Loyalty.md",
@@ -515,7 +516,6 @@
     "git_auto_push.sh",
     "plan-forge/package-lock.json",
     "plan-forge/node_modules/electron/path.txt",
-    "plan-forge/node_modules/electron/dist/LICENSES.chromium.html",
-    "plan-forge/node_modules/electron/dist/version"
+    "plan-forge/node_modules/electron/dist/LICENSES.chromium.html"
   ]
 }
