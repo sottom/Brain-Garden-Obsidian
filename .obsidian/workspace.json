@@ -284,7 +284,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -359,7 +359,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loyalty All Todos.md",
+                "file": "Excalidraw/Drawing 2026-07-30 14.46.37.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -369,7 +369,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Loyalty All Todos"
+              "title": "Backlinks for Drawing 2026-07-30 14.46.37.excalidraw"
             }
           },
           {
@@ -458,10 +458,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "91d737e931f133f3",
+  "active": "fabe550299694aed",
   "lastOpenFiles": [
-    "Loyalty F&D Stakeholder groups.md",
     "Loyalty All Todos.md",
+    "Loyalty F&D Stakeholder groups.md",
     "Excalidraw/Timelines & Gantt Charts F&D Loyalty.md",
     "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
     "Excalidraw/Drawing 2026-08-03 16.07.43.excalidraw.md",
