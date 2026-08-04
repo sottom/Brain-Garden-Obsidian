@@ -172,6 +172,18 @@
             }
           },
           {
+            "id": "fd4990967245c4b2",
+            "type": "leaf",
+            "state": {
+              "type": "audio",
+              "state": {
+                "file": "Normal Tier Evaluation (not Beta) Loyalty F&D.m4a"
+              },
+              "icon": "lucide-file-audio",
+              "title": "Normal Tier Evaluation (not Beta) Loyalty F&D"
+            }
+          },
+          {
             "id": "9afc6a22b9ea461f",
             "type": "leaf",
             "state": {
@@ -298,7 +310,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -371,7 +383,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2026-07-30 14.46.37.excalidraw.md",
+                "file": "Normal Tier Evaluation (not Beta) Loyalty F&D.m4a",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -381,7 +393,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2026-07-30 14.46.37.excalidraw"
+              "title": "Backlinks for Normal Tier Evaluation (not Beta) Loyalty F&D"
             }
           },
           {
@@ -470,11 +482,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fabe550299694aed",
+  "active": "fd4990967245c4b2",
   "lastOpenFiles": [
     "Untitled.md",
-    "Beta Tier Scenario Loyalty F&D.m4a",
+    "Normal Tier Evaluation (not Beta) Loyalty F&D.m4a",
     "Excalidraw/Drawing 2026-07-30 14.46.37.excalidraw.md",
+    "Beta Tier Scenario Loyalty F&D.m4a",
     "Recording 20260804073112.m4a",
     "Recording 20260804073223.m4a",
     "Recording 20260804073157.m4a",
@@ -515,7 +528,6 @@
     "git_push_log.log",
     "git_auto_push.sh",
     "plan-forge/package-lock.json",
-    "plan-forge/node_modules/electron/path.txt",
-    "plan-forge/node_modules/electron/dist/LICENSES.chromium.html"
+    "plan-forge/node_modules/electron/path.txt"
   ]
 }
