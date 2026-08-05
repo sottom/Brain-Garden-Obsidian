@@ -309,8 +309,7 @@
               "title": "ECOMM Questions F&D Loyalty 7-16-2026"
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -383,7 +382,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2026-07-30 14.46.37.excalidraw.md",
+                "file": "Excalidraw/Timelines & Gantt Charts F&D Loyalty.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -393,7 +392,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2026-07-30 14.46.37.excalidraw"
+              "title": "Backlinks for Timelines & Gantt Charts F&D Loyalty"
             }
           },
           {
@@ -482,11 +481,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fabe550299694aed",
+  "active": "e5def790108558cd",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-07-30 14.46.37.excalidraw.md",
     "Normal Tier Evaluation (not Beta) Loyalty F&D.m4a",
     "Untitled.md",
-    "Excalidraw/Drawing 2026-07-30 14.46.37.excalidraw.md",
     "Beta Tier Scenario Loyalty F&D.m4a",
     "Recording 20260804073112.m4a",
     "Recording 20260804073223.m4a",
