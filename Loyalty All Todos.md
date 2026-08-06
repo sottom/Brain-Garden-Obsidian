@@ -57,6 +57,7 @@ Beta Invite (how to get that information)
 - ~~(give these) Hold Endpoints (unique id for interaction) - see [[Pasted image 20260718150453.png]]~~
 - ~~Order History design - [[Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md#^R3Atgq5u|Order HIstory Accrual Picture]] (==loyalty history==)~~
 - ==Salesforce needs (enrollment)==
+- ==FRO - Get current rules for the program that people can query==
 - ~~Benefit History ~~
 	- ![[Pasted image 20260728120558.png]]
 
