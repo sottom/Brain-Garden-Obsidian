@@ -58,7 +58,7 @@ Beta Invite (how to get that information)
 - ~~Order History design - [[Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md#^R3Atgq5u|Order HIstory Accrual Picture]] (==loyalty history==)~~
 - ==Salesforce needs (enrollment)==
 - ==FRO - Get current rules for the program that people can query==
-- 
+- ==Ability to query the number of a benefit that have been used across a date range==
 - ~~Benefit History ~~
 	- ![[Pasted image 20260728120558.png]]
 
