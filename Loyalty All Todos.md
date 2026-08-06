@@ -44,12 +44,12 @@ Beta Invite (how to get that information)
 **Timelines for contracts and in-dev-by dates** July 24
 
 - Integrating with new (correct) database, mock data (across BFF, CRS, membership & payments) - assign someone to drive this (Jacob McCarthy) - they need a login to the website - linking between all systems (good test data) - Jarrod/Paul, CRS, Membership, QA group to help with making data.
-	- Payments apis analysis - https://flooranddecor.atlassian.net/browse/CENT-972
 	- how will someone get enrolled? 
 	- Match data that they already have in Payments.
 	- ==Accounting==
 	- ==Jacie SOX meeting==
 	- ==SNOW ticket to databricks team for `sfcrm` connection to sql warehouse==
+	- ==Mock data/users for app store apple to test with (sean coleman)==
 - ~~Evaluate Benefits Usage endpoint (unique id for interaction) [[Pasted image 20260718172250.png]] - before Wednesday ideally (MVP)~~
 - ~~**loyalty simulation endpoint** - returns Pro Bucks earned? Resulting tier from spend? Or accrual only?~~
 - ~~POS Sales Feed Gaps~~
@@ -60,9 +60,6 @@ Beta Invite (how to get that information)
 - ~~Benefit History ~~
 	- ![[Pasted image 20260728120558.png]]
 
-
-- Review new requirements with Liz and Evan - https://flooranddecor.atlassian.net/jira/dashboards/19407
-- - 2 - Accounting Requirements
 
 - Security Decisions Meeting
 - ==Fraud - receipt (3 tries per day)== August 
