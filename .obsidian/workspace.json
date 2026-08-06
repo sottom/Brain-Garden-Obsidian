@@ -336,7 +336,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -411,7 +411,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loyalty All Todos.md",
+                "file": "Excalidraw/Drawing 2026-08-03 16.07.43.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -421,7 +421,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Loyalty All Todos"
+              "title": "Backlinks for Drawing 2026-08-03 16.07.43.excalidraw"
             }
           },
           {
@@ -510,15 +510,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "91d737e931f133f3",
+  "active": "3f17520e7dc09230",
   "lastOpenFiles": [
-    "Excalidraw/Timelines & Gantt Charts F&D Loyalty.md",
-    "Loyalty All Todos.md",
-    "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
     "Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md",
+    "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
+    "Excalidraw/Drawing 2026-08-03 16.07.43.excalidraw.md",
+    "Excalidraw/Drawing 2026-07-30 14.46.37.excalidraw.md",
+    "Excalidraw/Drawing 2026-08-03 08.44.10.excalidraw.md",
+    "Loyalty All Todos.md",
+    "Excalidraw/Timelines & Gantt Charts F&D Loyalty.md",
     "Excalidraw/Loyalty F&D Azure Environments & Kubernetes notes.md",
     "ECOMM Questions F&D Loyalty 7-16-2026.md",
-    "Excalidraw/Drawing 2026-07-30 14.46.37.excalidraw.md",
     "Normal Tier Evaluation (not Beta) Loyalty F&D.m4a",
     "Untitled.md",
     "Beta Tier Scenario Loyalty F&D.m4a",
@@ -526,8 +528,6 @@
     "Recording 20260804073223.m4a",
     "Recording 20260804073157.m4a",
     "Loyalty F&D Stakeholder groups.md",
-    "Excalidraw/Drawing 2026-08-03 16.07.43.excalidraw.md",
-    "Excalidraw/Drawing 2026-08-03 08.44.10.excalidraw.md",
     "Excalidraw/Multiple Receipts Loyalty F&D.md",
     "Excalidraw/Drawing 2026-07-29 07.33.20.excalidraw.md",
     "Excalidraw/Drawing 2026-07-30 10.41.11.excalidraw.md",
