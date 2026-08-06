@@ -67,6 +67,7 @@ Beta Invite (how to get that information)
 - ==Seeding / Beta enrollment==
 	- Talk to ECOMM and others about PPR shutoff Jan 31
 - ==End of year batch scheduling==
+- ==Membership activation need to run lookback for ytd spend==
 - Expiration
 - "Suspended" language instead of DeActivated
 
