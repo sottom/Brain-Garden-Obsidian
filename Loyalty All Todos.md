@@ -57,6 +57,7 @@ Beta Invite (how to get that information)
 - ==Ability to query the number of a benefit that have been used across a date range==
 - ==When manual assignment happens, create linking in the POS tables (during receipt upload)==
 - ==Reconciliations epics/stories created==
+- ==Charles Rogers - Hello Marty/Evan/Mitchell, In our on going efforts to address access to the new Jenkins Workspaces, Argo CD config, and Repositories, can you send me a list of the individuals for your teams.==
 - ==In-auth security for holds== - https://flooranddecor.atlassian.net/browse/NOVA-682?focusedCommentId=345264
 - ==SNOW ticket databricks - AKS service application to connect to Data SQL warehouse==
 	- AKS - the service
