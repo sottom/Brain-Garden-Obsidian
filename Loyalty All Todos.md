@@ -50,12 +50,7 @@ Beta Invite (how to get that information)
 	- ==Jacie SOX meeting==
 	- ==SNOW ticket to databricks team for `sfcrm` connection to sql warehouse==
 	- ==Mock data/users for app store apple to test with (sean coleman)==
-- ~~Evaluate Benefits Usage endpoint (unique id for interaction) [[Pasted image 20260718172250.png]] - before Wednesday ideally (MVP)~~
-- ~~**loyalty simulation endpoint** - returns Pro Bucks earned? Resulting tier from spend? Or accrual only?~~
-- ~~POS Sales Feed Gaps~~
-- ~~Handling Receipts endpoint [[Excalidraw/Multiple Receipts Loyalty F&D.md#^3VedIycz|Receipts Diagram]]~~
-- ~~(give these) Hold Endpoints (unique id for interaction) - see [[Pasted image 20260718150453.png]]~~
-- ~~Order History design - [[Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md#^R3Atgq5u|Order HIstory Accrual Picture]] (==loyalty history==)~~
+- ==POS benefit check needing to pass in number of items they want to use - reconfirm this is what they need==
 - ==Salesforce needs (enrollment)==
 - ==FRO - Get current rules for the program that people can query==
 - ==Ability to query the number of a benefit that have been used across a date range==
