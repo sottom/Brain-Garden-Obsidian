@@ -389,13 +389,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "20d6ba111bc01a1a",
@@ -510,7 +508,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f183f34943135175",
+  "active": "6e0b885a170229f3",
   "lastOpenFiles": [
     "Loyalty All Todos.md",
     "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
