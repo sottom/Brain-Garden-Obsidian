@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e5def790108558cd",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Timelines & Gantt Charts F&D Loyalty.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Timelines & Gantt Charts F&D Loyalty"
-            }
-          },
-          {
             "id": "aa3d68cab3ebd368",
             "type": "leaf",
             "state": {
@@ -65,18 +53,6 @@
               },
               "icon": "excalidraw-icon",
               "title": "Loyalty F&D Azure Environments & Kubernetes notes"
-            }
-          },
-          {
-            "id": "f183f34943135175",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "F&D Loyalty POS Flows and Systems Needed"
             }
           },
           {
@@ -336,7 +312,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -509,17 +485,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "91d737e931f133f3",
+  "active": "9fa589e2ed985db0",
   "lastOpenFiles": [
-    "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
+    "Excalidraw/Drawing 2026-07-30 10.41.11.excalidraw.md",
     "Excalidraw/Timelines & Gantt Charts F&D Loyalty.md",
+    "ECOMM Questions F&D Loyalty 7-16-2026.md",
+    "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
     "Loyalty All Todos.md",
     "Excalidraw/Drawing 2026-08-03 16.07.43.excalidraw.md",
     "Excalidraw/Drawing 2026-07-30 14.46.37.excalidraw.md",
     "Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md",
     "Excalidraw/Drawing 2026-08-03 08.44.10.excalidraw.md",
     "Excalidraw/Loyalty F&D Azure Environments & Kubernetes notes.md",
-    "ECOMM Questions F&D Loyalty 7-16-2026.md",
     "Normal Tier Evaluation (not Beta) Loyalty F&D.m4a",
     "Untitled.md",
     "Beta Tier Scenario Loyalty F&D.m4a",
@@ -529,7 +506,6 @@
     "Loyalty F&D Stakeholder groups.md",
     "Excalidraw/Multiple Receipts Loyalty F&D.md",
     "Excalidraw/Drawing 2026-07-29 07.33.20.excalidraw.md",
-    "Excalidraw/Drawing 2026-07-30 10.41.11.excalidraw.md",
     "Pasted Image 20260731105744_858.png",
     "Pasted Image 20260729100551_355.png",
     "Pasted Image 20260729092226_321.png",
