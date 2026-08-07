@@ -60,6 +60,7 @@ Beta Invite (how to get that information)
 - ==FRO - Get current rules for the program that people can query==
 - ==Ability to query the number of a benefit that have been used across a date range==
 - ==When manual assignment happens, create linking in the POS tables (during receipt upload)==
+- ==Reconciliations epics/stories created==
 - ~~Benefit History ~~
 	- ![[Pasted image 20260728120558.png]]
 
