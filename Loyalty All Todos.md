@@ -61,6 +61,16 @@ Beta Invite (how to get that information)
 - ==Ability to query the number of a benefit that have been used across a date range==
 - ==When manual assignment happens, create linking in the POS tables (during receipt upload)==
 - ==Reconciliations epics/stories created==
+- AKS service application to connect to Data SQL warehouse
+	- AKS - the service
+	- The target - SQL Warehouse connection (not specific)
+	- Purpose - read sfcrm data
+	- Managed Identity that needs access
+	    - ClientID
+	    - ObjectID
+	- Service Principal that needs access
+	    - ClientID
+	    - ObjectID
 - ~~Benefit History ~~
 	- ![[Pasted image 20260728120558.png]]
 
