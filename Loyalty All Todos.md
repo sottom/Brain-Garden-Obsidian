@@ -51,6 +51,7 @@ Beta Invite (how to get that information)
 	- ==SNOW ticket to databricks team for `sfcrm` connection to sql warehouse==
 	- ==Mock data/users for app store apple to test with (sean coleman)==
 - ==POS benefit check needing to pass in number of items they want to use - reconfirm this is what they need==
+- ==Fraud== - https://flooranddecor.atlassian.net/browse/NOVA-459
 - ==Salesforce needs (enrollment)==
 - ==FRO - Get current rules for the program that people can query==
 - ==Ability to query the number of a benefit that have been used across a date range==
