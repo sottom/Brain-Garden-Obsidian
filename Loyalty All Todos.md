@@ -56,10 +56,9 @@ Beta Invite (how to get that information)
 	- Discuss how we will handle (==manual assignments==, structure in membership, checking for that across other services, scheduler running regular checks on odd situations)
 	- Payments sending event through their event hub, we would likely consume it (just email ourselves for Beta?)
 - Membership
-	- New rule to make the ID human readable
+	- New rule to make the ID human readable (only numbers, 10-15 long, with delegates being a -1, -2, -3, etc. at the end of the account they are a delegate for)
 - CRM
 	- membership update endpoint
-1000-0000-00
 - FRO
 	- ==FRO - Get current rules for the program that people can query==
 	- FRO ==Ability to query the number of a benefit that have been used across a date range==
