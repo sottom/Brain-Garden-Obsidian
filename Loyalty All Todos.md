@@ -48,10 +48,13 @@ Beta Invite (how to get that information)
 	- Match data that they already have in Payments.
 	- ==Accounting==
 	- ==Jacie SOX meeting==
-	- ==SNOW ticket to databricks team for `sfcrm` connection to sql warehouse==
+
 	- ==Mock data/users for app store apple to test with (sean coleman)==
-- ==POS benefit check needing to pass in number of items they want to use - reconfirm this is what they need==
+- Rules Engine
+	- ==POS benefit check needing to pass in number of items they want to use - reconfirm this is what they need==
 - ==Fraud== - https://flooranddecor.atlassian.net/browse/NOVA-459
+	- Discuss how we will handle (==manual assignments==, structure in membership, checking for that across other services, scheduler running regular checks on odd situations)
+	- Payments sending event through their event hub, we would likely consume it (just email ourselves for Beta?)
 - CRM
 	- ==Salesforce needs (enrollment)==
 - ==FRO - Get current rules for the program that people can query==
@@ -60,6 +63,7 @@ Beta Invite (how to get that information)
 	- ==When manual assignment happens, create linking in the POS tables (during receipt upload)==
 - Scheduling
 	- ==Reconciliations epics/stories created==
+	- ==SNOW ticket to databricks team for `sfcrm` connection to sql warehouse==
 - ==Charles Rogers - Hello Marty/Evan/Mitchell, In our on going efforts to address access to the new Jenkins Workspaces, Argo CD config, and Repositories, can you send me a list of the individuals for your teams.==
 - ==In-auth security for holds== - https://flooranddecor.atlassian.net/browse/NOVA-682?focusedCommentId=345264
 - ==SNOW ticket databricks - AKS service application to connect to Data SQL warehouse==
