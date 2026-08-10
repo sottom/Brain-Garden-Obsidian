@@ -56,13 +56,14 @@ Beta Invite (how to get that information)
 	- Discuss how we will handle (==manual assignments==, structure in membership, checking for that across other services, scheduler running regular checks on odd situations)
 	- Payments sending event through their event hub, we would likely consume it (just email ourselves for Beta?)
 - CRM
-	- ==Salesforce needs (enrollment)==
-- ==FRO - Get current rules for the program that people can query==
-- FRO ==Ability to query the number of a benefit that have been used across a date range==
-- Ingestion
-	- ==When manual assignment happens, create linking in the POS tables (during receipt upload)==
-- Scheduling
+	- ==CRM needs (enrollment)==
+- FRO
+	- ==FRO - Get current rules for the program that people can query==
+	- FRO ==Ability to query the number of a benefit that have been used across a date range==
 	- Not Beta - ==Reconciliations epics/stories created==
+- Ingestion
+	- ==When manual assignment happens, create linking in the POS tables (during receipt upload)== - Joe tomorrow
+- Scheduling
 	- ==SNOW ticket to databricks team for `sfcrm` connection to sql warehouse==
 - ==In-auth security for holds== - https://flooranddecor.atlassian.net/browse/NOVA-682?focusedCommentId=345264
 - ==SNOW ticket databricks - AKS service application to connect to Data SQL warehouse==
