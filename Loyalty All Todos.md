@@ -55,8 +55,11 @@ Beta Invite (how to get that information)
 - ==Fraud== - https://flooranddecor.atlassian.net/browse/NOVA-459
 	- Discuss how we will handle (==manual assignments==, structure in membership, checking for that across other services, scheduler running regular checks on odd situations)
 	- Payments sending event through their event hub, we would likely consume it (just email ourselves for Beta?)
+- Membership
+	- New rule to make the ID human readable
 - CRM
-	- ==CRM needs (enrollment)==
+	- membership update endpoint
+0,000,000-000
 - FRO
 	- ==FRO - Get current rules for the program that people can query==
 	- FRO ==Ability to query the number of a benefit that have been used across a date range==
