@@ -51,7 +51,7 @@ Beta Invite (how to get that information)
 
 	- ==Mock data/users for app store apple to test with (sean coleman)==
 - Rules Engine
-	- ==POS benefit check needing to pass in number of items they want to use - reconfirm this is what they need==
+	- ==POS benefit check needing to pass in number of benefits they want to use - reconfirm this is what they need==
 - ==Fraud== - https://flooranddecor.atlassian.net/browse/NOVA-459
 	- Discuss how we will handle (==manual assignments==, structure in membership, checking for that across other services, scheduler running regular checks on odd situations)
 	- Payments sending event through their event hub, we would likely consume it (just email ourselves for Beta?)
