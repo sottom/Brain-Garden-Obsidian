@@ -58,13 +58,12 @@ Beta Invite (how to get that information)
 - CRM
 	- ==Salesforce needs (enrollment)==
 - ==FRO - Get current rules for the program that people can query==
-- ==Ability to query the number of a benefit that have been used across a date range==
+- FRO ==Ability to query the number of a benefit that have been used across a date range==
 - Ingestion
 	- ==When manual assignment happens, create linking in the POS tables (during receipt upload)==
 - Scheduling
 	- ==Reconciliations epics/stories created==
 	- ==SNOW ticket to databricks team for `sfcrm` connection to sql warehouse==
-- ==Charles Rogers - Hello Marty/Evan/Mitchell, In our on going efforts to address access to the new Jenkins Workspaces, Argo CD config, and Repositories, can you send me a list of the individuals for your teams.==
 - ==In-auth security for holds== - https://flooranddecor.atlassian.net/browse/NOVA-682?focusedCommentId=345264
 - ==SNOW ticket databricks - AKS service application to connect to Data SQL warehouse==
 	- AKS - the service
