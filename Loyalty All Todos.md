@@ -59,7 +59,7 @@ Beta Invite (how to get that information)
 	- New rule to make the ID human readable
 - CRM
 	- membership update endpoint
-0,000,000-000
+1000-0000-00
 - FRO
 	- ==FRO - Get current rules for the program that people can query==
 	- FRO ==Ability to query the number of a benefit that have been used across a date range==
