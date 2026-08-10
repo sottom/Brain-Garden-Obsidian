@@ -82,6 +82,7 @@ Beta Invite (how to get that information)
 - ==Membership activation need to run lookback for ytd spend==
 - ==App testing by apple - need Mock users in Production, before September 14==
 - ==Databricks integration==
+	- Testing - need to add data to Databricks 
 - Expiration
 - "Suspended" language instead of DeActivated
 
