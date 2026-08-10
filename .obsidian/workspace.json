@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "0ccfcec72340f344",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-08-10 10.18.01.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-08-10 10.18.01.excalidraw"
-            }
-          },
-          {
             "id": "7376e234c86d1870",
             "type": "leaf",
             "state": {
@@ -497,10 +485,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0ccfcec72340f344",
+  "active": "7376e234c86d1870",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-07-30 10.41.11.excalidraw.md",
     "Excalidraw/Drawing 2026-08-10 10.18.01.excalidraw.md",
+    "Excalidraw/Drawing 2026-07-30 10.41.11.excalidraw.md",
     "Excalidraw/Loyalty F&D Azure Environments & Kubernetes notes.md",
     "Excalidraw/Timelines & Gantt Charts F&D Loyalty.md",
     "ECOMM Questions F&D Loyalty 7-16-2026.md",
