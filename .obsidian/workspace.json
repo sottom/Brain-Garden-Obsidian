@@ -311,8 +311,7 @@
               "title": "ECOMM Questions F&D Loyalty 7-16-2026"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -485,8 +484,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9fa589e2ed985db0",
+  "active": "aa3d68cab3ebd368",
   "lastOpenFiles": [
+    "Excalidraw/Loyalty F&D Azure Environments & Kubernetes notes.md",
     "Excalidraw/Drawing 2026-07-30 10.41.11.excalidraw.md",
     "Excalidraw/Timelines & Gantt Charts F&D Loyalty.md",
     "ECOMM Questions F&D Loyalty 7-16-2026.md",
@@ -496,7 +496,6 @@
     "Excalidraw/Drawing 2026-07-30 14.46.37.excalidraw.md",
     "Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md",
     "Excalidraw/Drawing 2026-08-03 08.44.10.excalidraw.md",
-    "Excalidraw/Loyalty F&D Azure Environments & Kubernetes notes.md",
     "Normal Tier Evaluation (not Beta) Loyalty F&D.m4a",
     "Untitled.md",
     "Beta Tier Scenario Loyalty F&D.m4a",
