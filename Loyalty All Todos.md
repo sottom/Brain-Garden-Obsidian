@@ -81,6 +81,7 @@ Beta Invite (how to get that information)
 - ==End of year batch scheduling==
 - ==Membership activation need to run lookback for ytd spend==
 - ==App testing by apple - need Mock users in Production, before September 14==
+- ==Do we excl
 - ==Databricks integration==
 	- Testing - need to add data to Databricks 
 - Expiration
