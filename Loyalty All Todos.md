@@ -62,7 +62,7 @@ Beta Invite (how to get that information)
 - Ingestion
 	- ==When manual assignment happens, create linking in the POS tables (during receipt upload)==
 - Scheduling
-	- ==Reconciliations epics/stories created==
+	- Not Beta - ==Reconciliations epics/stories created==
 	- ==SNOW ticket to databricks team for `sfcrm` connection to sql warehouse==
 - ==In-auth security for holds== - https://flooranddecor.atlassian.net/browse/NOVA-682?focusedCommentId=345264
 - ==SNOW ticket databricks - AKS service application to connect to Data SQL warehouse==
