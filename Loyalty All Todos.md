@@ -25,7 +25,16 @@
 	- Add story for systems trust matrix for full rollout - System Trust Matix service
 - Set up fin triangles
 
-
+- ==SNOW ticket databricks - AKS service application to connect to Data SQL warehouse==
+	- AKS - the service
+	- The target - SQL Warehouse connection (not specific)
+	- Purpose - read sfcrm data
+	- Managed Identity that needs access
+	    - ClientID
+	    - ObjectID
+	- Service Principal that needs access
+	    - ClientID
+	    - ObjectID
 - Ingestion
 	- ==When manual assignment happens, create linking in the POS tables (during receipt upload)== - Joe tomorrow
 - SOX
@@ -41,7 +50,7 @@
 	- Payments sending event through their event hub, we would likely consume it (just email ourselves for Beta?)
 - Membership
 	- Maria - New rule to make the ID human readable (only numbers, 12 long, never start with 0, with delegates being a -1, -2, -3, etc. at the end of the account they are a delegate for)
-- - History
+- History
 	- Endpoint for scheduler to get liability information for accounting
 - Scheduling
 	- ==SNOW ticket to databricks team for `sfcrm` connection to sql warehouse==
@@ -53,16 +62,7 @@
 
 
 - ==In-auth security for holds== - https://flooranddecor.atlassian.net/browse/NOVA-682?focusedCommentId=345264
-- ==SNOW ticket databricks - AKS service application to connect to Data SQL warehouse==
-	- AKS - the service
-	- The target - SQL Warehouse connection (not specific)
-	- Purpose - read sfcrm data
-	- Managed Identity that needs access
-	    - ClientID
-	    - ObjectID
-	- Service Principal that needs access
-	    - ClientID
-	    - ObjectID
+
 - ~~Benefit History ~~
 	- ![[Pasted image 20260728120558.png]]
 
