@@ -39,6 +39,8 @@
 	- ==When manual assignment happens, create linking in the POS tables (during receipt upload)== - Joe tomorrow
 - SOX
 	- Jira stories for necessary documents.
+		- https://flooranddecor.atlassian.net/browse/CENT-1078 Beta
+		- https://flooranddecor.atlassian.net/browse/CENT-1079 FRO
 - Testing
 	- Statuses for endpoints - [[Excalidraw/Drawing 2026-08-10 11.26.37.excalidraw.md#^MsOQ7r9E|testing needs]] - https://flooranddecor.atlassian.net/browse/CENT-939
 	- ==Mock data/users in prod for app store apple to test with (sean coleman)==
