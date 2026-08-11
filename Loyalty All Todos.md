@@ -33,22 +33,10 @@
 ## Membership
 - Users for (set of users) QA in databases to validate their data needs - https://flooranddecor.atlassian.net/browse/CENT-939
 
-
-
-Beta Invite (how to get that information)
-
-
-
-
-# Team Conversations
-**Timelines for contracts and in-dev-by dates** July 24
-
-- Integrating with new (correct) database, mock data (across BFF, CRS, membership & payments) - assign someone to drive this (Jacob McCarthy) - they need a login to the website - linking between all systems (good test data) - Jarrod/Paul, CRS, Membership, QA group to help with making data.
-	- how will someone get enrolled? 
-	- Match data that they already have in Payments.
-	- ==Accounting==
-	- ==Jacie SOX meeting==
-
+- SOX
+	- Jira stories for necessary documents.
+- Testing
+	- Statuses for endpoints
 	- ==Mock data/users for app store apple to test with (sean coleman)==
 - Rules Engine
 	- ==POS benefit check needing to pass in number of benefits they want to use - reconfirm this is what they need==
@@ -66,8 +54,11 @@ Beta Invite (how to get that information)
 	- Not Beta - ==Reconciliations epics/stories created==
 - Ingestion
 	- ==When manual assignment happens, create linking in the POS tables (during receipt upload)== - Joe tomorrow
+- History
+	- Endpoint for scheduler to get liability information for accounting
 - Scheduling
 	- ==SNOW ticket to databricks team for `sfcrm` connection to sql warehouse==
+	- ==accounting requirements==
 - ==In-auth security for holds== - https://flooranddecor.atlassian.net/browse/NOVA-682?focusedCommentId=345264
 - ==SNOW ticket databricks - AKS service application to connect to Data SQL warehouse==
 	- AKS - the service
