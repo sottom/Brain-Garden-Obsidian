@@ -24,7 +24,7 @@
 	- F&D Admin Controls
 	- Add story for systems trust matrix for full rollout - System Trust Matix service
 - Set up fin triangles
-
+==- Project Pending values? Or store them?==
 - ==SNOW ticket databricks - AKS service application to connect to Data SQL warehouse==
 	- AKS - the service
 	- The target - SQL Warehouse connection (not specific)
