@@ -60,6 +60,18 @@
             }
           },
           {
+            "id": "5b0ce88d6b708243",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/App & ECOMM Full Rollout F&D Diagram.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "App & ECOMM Full Rollout F&D Diagram"
+            }
+          },
+          {
             "id": "e48dca26a5b4a1ce",
             "type": "leaf",
             "state": {
@@ -262,7 +274,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -435,10 +447,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "91d737e931f133f3",
+  "active": "5b0ce88d6b708243",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-08-10 11.26.37.excalidraw.md",
+    "Screenshot 2026-08-11 at 1.08.01 PM.png",
+    "Screenshot 2026-08-11 at 1.07.40 PM.png",
+    "Pasted Image 20260811130615_807.png",
     "Loyalty All Todos.md",
+    "Excalidraw/App & ECOMM Full Rollout F&D Diagram.md",
+    "Excalidraw/Drawing 2026-08-10 11.26.37.excalidraw.md",
     "Jacob McCarthy.md",
     "Excalidraw/Drawing 2026-08-03 16.07.43.excalidraw.md",
     "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
@@ -467,16 +483,13 @@
     "Pasted Image 20260729073447_111.png",
     "Pasted Image 20260729073344_492.png",
     "Pasted Image 20260729073322_019.png",
-    "Pasted image 20260728120558.png",
     "Excalidraw/POS Flows & Systems Needed Old F&D Loyalty.md",
     "Excalidraw/Drawing 2026-07-21 15.25.36.excalidraw.md",
-    "Pasted image 20260724150210.png",
     "Excalidraw/Drawing 2026-07-24 08.47.02.excalidraw.md",
     "Eleri Floyd.md",
     "F&D Sales Feed Example.md",
     "Excalidraw/F&D Loyalty Stakeholders Diagram.md",
     "Loyalty Marketing Notifications to the app.md",
-    "DailyNotes/2026-04-20 (Mon).md",
     "git_push_log.log.tmp",
     "git_push_log.log",
     "git_auto_push.sh",
