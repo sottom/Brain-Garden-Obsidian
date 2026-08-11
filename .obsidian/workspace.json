@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aa3d68cab3ebd368",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-07-30 10.41.11.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-07-30 10.41.11.excalidraw"
-            }
-          },
-          {
-            "id": "7376e234c86d1870",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-07-29 07.33.20.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-07-29 07.33.20.excalidraw"
-            }
-          },
-          {
-            "id": "fc666e8150f3b886",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Multiple Receipts Loyalty F&D.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Multiple Receipts Loyalty F&D"
-            }
-          },
-          {
-            "id": "9fa589e2ed985db0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Loyalty F&D Azure Environments & Kubernetes notes.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Loyalty F&D Azure Environments & Kubernetes notes"
-            }
-          },
-          {
             "id": "2242789f81148d63",
             "type": "leaf",
             "state": {
@@ -65,18 +17,6 @@
               },
               "icon": "excalidraw-icon",
               "title": "F&D Loyalty POS Flows and Systems Needed"
-            }
-          },
-          {
-            "id": "e19bd981b09ff554",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty"
             }
           },
           {
@@ -322,7 +262,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -497,18 +437,18 @@
   },
   "active": "91d737e931f133f3",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-07-30 14.46.37.excalidraw.md",
-    "Excalidraw/Drawing 2026-08-03 08.44.10.excalidraw.md",
-    "Loyalty All Todos.md",
-    "Excalidraw/Drawing 2026-07-30 10.41.11.excalidraw.md",
-    "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
-    "Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md",
+    "Excalidraw/Drawing 2026-08-10 11.26.37.excalidraw.md",
     "Excalidraw/Drawing 2026-08-03 16.07.43.excalidraw.md",
-    "ECOMM Questions F&D Loyalty 7-16-2026.md",
-    "Excalidraw/Loyalty F&D Azure Environments & Kubernetes notes.md",
+    "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
+    "Excalidraw/Drawing 2026-07-30 10.41.11.excalidraw.md",
     "Excalidraw/Drawing 2026-07-29 07.33.20.excalidraw.md",
     "Excalidraw/Multiple Receipts Loyalty F&D.md",
-    "Excalidraw/Drawing 2026-08-10 11.26.37.excalidraw.md",
+    "Excalidraw/Loyalty F&D Azure Environments & Kubernetes notes.md",
+    "Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md",
+    "Loyalty All Todos.md",
+    "Excalidraw/Drawing 2026-07-30 14.46.37.excalidraw.md",
+    "Excalidraw/Drawing 2026-08-03 08.44.10.excalidraw.md",
+    "ECOMM Questions F&D Loyalty 7-16-2026.md",
     "Excalidraw/Drawing 2026-08-10 10.18.01.excalidraw.md",
     "Excalidraw/Timelines & Gantt Charts F&D Loyalty.md",
     "Normal Tier Evaluation (not Beta) Loyalty F&D.m4a",

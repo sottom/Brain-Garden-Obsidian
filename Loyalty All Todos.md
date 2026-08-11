@@ -24,41 +24,34 @@
 	- F&D Admin Controls
 	- Add story for systems trust matrix for full rollout - System Trust Matix service
 - Set up fin triangles
-## CRS
 
-## Comms Orchestrator (Marketing)
 
-## BFF & WIMS
-
-## Membership
-- Users for (set of users) QA in databases to validate their data needs - https://flooranddecor.atlassian.net/browse/CENT-939
-
+- Ingestion
+	- ==When manual assignment happens, create linking in the POS tables (during receipt upload)== - Joe tomorrow
 - SOX
 	- Jira stories for necessary documents.
 - Testing
-	- Statuses for endpoints
-	- ==Mock data/users for app store apple to test with (sean coleman)==
+	- Statuses for endpoints - [[Excalidraw/Drawing 2026-08-10 11.26.37.excalidraw.md#^MsOQ7r9E|testing needs]] - https://flooranddecor.atlassian.net/browse/CENT-939
+	- ==Mock data/users in prod for app store apple to test with (sean coleman)==
 - Rules Engine
-	- ==POS benefit check needing to pass in number of benefits they want to use - reconfirm this is what they need==
+	- Evan - ==POS benefit check needing to pass in number of benefits they want to use - reconfirm this is what they need==
 - ==Fraud== - https://flooranddecor.atlassian.net/browse/NOVA-459
 	- Discuss how we will handle (==manual assignments==, structure in membership, checking for that across other services, scheduler running regular checks on odd situations)
 		- Users returning a sale after rebate is disbursed.
 	- Payments sending event through their event hub, we would likely consume it (just email ourselves for Beta?)
 - Membership
-	- New rule to make the ID human readable (only numbers, 10-15 long, with delegates being a -1, -2, -3, etc. at the end of the account they are a delegate for)
-- CRM
-	- membership update endpoint
-- FRO
-	- ==FRO - Get current rules for the program that people can query==
-	- FRO ==Ability to query the number of a benefit that have been used across a date range==
-	- Not Beta - ==Reconciliations epics/stories created==
-- Ingestion
-	- ==When manual assignment happens, create linking in the POS tables (during receipt upload)== - Joe tomorrow
-- History
+	- Maria - New rule to make the ID human readable (only numbers, 12 long, never start with 0, with delegates being a -1, -2, -3, etc. at the end of the account they are a delegate for)
+- - History
 	- Endpoint for scheduler to get liability information for accounting
 - Scheduling
 	- ==SNOW ticket to databricks team for `sfcrm` connection to sql warehouse==
 	- ==accounting requirements==
+- FRO
+	- ==FRO - Get current rules for the program that people can query==
+	- FRO ==Ability to query the number of a benefit that have been used across a date range==
+	- Not Beta - ==Reconciliations epics/stories created==
+
+
 - ==In-auth security for holds== - https://flooranddecor.atlassian.net/browse/NOVA-682?focusedCommentId=345264
 - ==SNOW ticket databricks - AKS service application to connect to Data SQL warehouse==
 	- AKS - the service
