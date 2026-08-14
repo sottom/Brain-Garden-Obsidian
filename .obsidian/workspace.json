@@ -234,6 +234,18 @@
             }
           },
           {
+            "id": "cd6608507cf3ca19",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-08-14 10.04.24.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-08-14 10.04.24.excalidraw"
+            }
+          },
+          {
             "id": "2e0b4a5d3a674047",
             "type": "leaf",
             "state": {
@@ -257,6 +269,18 @@
               },
               "icon": "excalidraw-icon",
               "title": "F&D Loyalty Stakeholders Diagram"
+            }
+          },
+          {
+            "id": "e9eb68cfef402a76",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-08-14 10.04.45.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-08-14 10.04.45.excalidraw"
             }
           },
           {
@@ -286,7 +310,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -460,15 +484,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9c73b7d233612300",
+  "active": "e9eb68cfef402a76",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-08-03 16.07.43.excalidraw.md",
-    "Excalidraw/Drawing 2026-08-14 08.39.23.excalidraw.md",
-    "Excalidraw/App & ECOMM Full Rollout F&D Diagram.md",
-    "Excalidraw/Drawing 2026-08-10 11.26.37.excalidraw.md",
+    "Excalidraw/F&D Loyalty Stakeholders Diagram.md",
+    "Excalidraw/Drawing 2026-08-14 10.04.45.excalidraw.md",
+    "Excalidraw/Multiple Receipts Loyalty F&D.md",
     "Excalidraw/F&D Loyalty ECOMM Mockups & Checkout Flows Loyalty.md",
     "Excalidraw/Drawing 2026-07-30 14.46.37.excalidraw.md",
     "Excalidraw/Drawing 2026-08-03 08.44.10.excalidraw.md",
+    "Excalidraw/Drawing 2026-08-10 11.26.37.excalidraw.md",
+    "Excalidraw/App & ECOMM Full Rollout F&D Diagram.md",
+    "Excalidraw/Drawing 2026-08-14 08.39.23.excalidraw.md",
+    "Excalidraw/Drawing 2026-08-03 16.07.43.excalidraw.md",
+    "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
+    "Excalidraw/Drawing 2026-08-14 10.04.24.excalidraw.md",
     "Loyalty All Todos.md",
     "Loyalty F&D Stakeholder groups.md",
     "Screenshot 2026-08-11 at 1.59.20 PM.png",
@@ -482,11 +511,9 @@
     "Screenshot 2026-08-11 at 1.08.01 PM.png",
     "Screenshot 2026-08-11 at 1.07.40 PM.png",
     "Jacob McCarthy.md",
-    "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
     "Normal Tier Evaluation (not Beta) Loyalty F&D.m4a",
     "Excalidraw/Drawing 2026-07-30 10.41.11.excalidraw.md",
     "Excalidraw/Drawing 2026-07-29 07.33.20.excalidraw.md",
-    "Excalidraw/Multiple Receipts Loyalty F&D.md",
     "Excalidraw/Loyalty F&D Azure Environments & Kubernetes notes.md",
     "ECOMM Questions F&D Loyalty 7-16-2026.md",
     "Excalidraw/Drawing 2026-08-10 10.18.01.excalidraw.md",
@@ -500,9 +527,6 @@
     "Excalidraw/Drawing 2026-07-21 15.25.36.excalidraw.md",
     "Excalidraw/Drawing 2026-07-24 08.47.02.excalidraw.md",
     "Eleri Floyd.md",
-    "F&D Sales Feed Example.md",
-    "Excalidraw/F&D Loyalty Stakeholders Diagram.md",
-    "Loyalty Marketing Notifications to the app.md",
     "git_push_log.log.tmp",
     "git_push_log.log",
     "git_auto_push.sh",
