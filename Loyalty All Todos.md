@@ -24,7 +24,7 @@
 	- F&D Admin Controls
 	- Add story for systems trust matrix for full rollout - System Trust Matix service
 - Set up fin triangles
-- ==new ticket for cent-985==
+- ==new ticket for cent-985 & cent-944==
 - ==Fraud on manual receipt upload story attached in Fraud Detection launch list 2.0 item==
 ==- Project Pending values? Or store them?==
 - ==SNOW ticket databricks - AKS service application to connect to Data SQL warehouse==
