@@ -1,1 +1,2 @@
 - 30-Tbl-membership - is the column really called ==seeding_tier==?
+- What contracts from rules engine are affected? How to represent unlimited tiers?
