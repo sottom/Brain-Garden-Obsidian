@@ -7,3 +7,6 @@
 7. 1039 - benefit history is not in scope for beta anymore.
 8. 1056 - no reconciliation is going to happen. Just a manual journal entry.
 9. 1058 - don't do this in pos (holds on benefits)
+10. 1068 - not shown in beta
+11. ==1071 - is this right?==
+12. 
