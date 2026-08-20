@@ -4,4 +4,5 @@
 4. 1031 - this is complex. Would be good to walk through.
 5. The currency name is PRO Bucks, not FND Dollars ~ Sabrina
 6. 1037 - loyalty engine doesn't deal with PPR earning. SF and Augeo do.
-7. 
+7. 1039 - benefit history is not in scope for beta anymore.
+8. 
