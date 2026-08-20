@@ -34,6 +34,18 @@
             }
           },
           {
+            "id": "1a2a6465062df17d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-08-20 15.26.19.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-08-20 15.26.19.excalidraw"
+            }
+          },
+          {
             "id": "cb28bfed91a596c1",
             "type": "leaf",
             "state": {
@@ -352,7 +364,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -526,10 +538,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9eb9ba18e64b7f50",
+  "active": "1a2a6465062df17d",
   "lastOpenFiles": [
-    "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
     "E2E notes.md",
+    "Excalidraw/Drawing 2026-08-20 15.26.19.excalidraw.md",
+    "Excalidraw/F&D Loyalty POS Flows and Systems Needed.md",
     "Eleri Floyd.md",
     "Excalidraw/Drawing 2026-08-03 16.07.43.excalidraw.md",
     "Untitled 5.md",
@@ -564,7 +577,6 @@
     "ECOMM Questions F&D Loyalty 7-16-2026.md",
     "Excalidraw/Drawing 2026-08-10 10.18.01.excalidraw.md",
     "Excalidraw/Timelines & Gantt Charts F&D Loyalty.md",
-    "Untitled.md",
     "Beta Tier Scenario Loyalty F&D.m4a",
     "Recording 20260804073112.m4a",
     "Recording 20260804073223.m4a",
